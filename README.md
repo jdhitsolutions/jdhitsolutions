@@ -3,7 +3,11 @@
 ![ps](images/powershell-emoji.png)I am a veteran IT Pro and scripting fiend, going all the way back to batch files in the early days of DOS. I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. I blog frequently at <https://jdhitsolutions.com/blog>. Here is a sample of my latests posts.
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Updated PowerShell Practice Primer Now Available](https://jdhitsolutions.com/blog/books/8205/updated-powershell-practice-primer-now-available/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
+- [Comparing PowerShell Property Names](https://jdhitsolutions.com/blog/powershell/8196/comparing-powershell-property-names/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
+- [Scaling the Active Directory Log Search with PowerShell](https://jdhitsolutions.com/blog/active-directory/8185/scaling-the-active-directory-log-search-with-powershell/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
+- [Climbing Trees in PowerShell](https://jdhitsolutions.com/blog/active-directory/8173/climbing-trees-in-powershell/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
+- [Friday Fun: PowerShell Weather Widget](https://jdhitsolutions.com/blog/powershell/8163/friday-fun-powershell-weather-widget/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 <!-- BLOG-POST-LIST:END -->
 
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjeffhicks)](https://twitter.com/jeffhicks) I am very active on [Twitter](https://twitter.com/jeffhicks) and I hope you'll think about following me. I host an online Twitter chat on the first Friday of every month from 1-2PM Eastern time. Follow along with the `#PSTweetChat` tag.
