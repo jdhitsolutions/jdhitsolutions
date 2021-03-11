@@ -1,8 +1,8 @@
 # Jeff Hicks
 
-![ps](images/MVP-Logo-small.png)
-
 ## _"Those who forget to automate are doomed to repeat their work"._
+
+![ps](images/MVP-Logo-small.png)
 
 I am a veteran IT Pro and scripting fiend, going all the way back to batch files in the early days of DOS. I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. I blog frequently at <https://jdhitsolutions.com/blog>. Here is a sample of my latests posts.
 
@@ -40,6 +40,17 @@ In addition to the well-known [_Learn PowerShell in a Month of Lunches_](https:/
 ![PowerShell PracticePrimer](images/psprimer-thumb.png) | [_The PowerShell Practice Primer_](https://leanpub.com/psprimer) isn't a book to teach your PowerShell, but rather to re-inforce what you already know through 100+ console-based exercises. No scripting is required.
 ![PowerShell Scripting and Toolmaking](images/pstoolmaking-thumbnail.png) | If you have read [_Learn PowerShell Scripting in a Month of Lunches_](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches?a_aid=jdhit&a_bid=2326a8ab), then you are ready for the next step. Don Jones and I wrote this book intending it to be the definitive guide on everything you need to know to be a better PowerShell scripter and toolmaker.
 ![pluralsight](images/Author-Badge_Sq-Black_Small.png) | I have been creating video training courses for over ten years. I have a large course catalog at [Pluralsight](pluralsight.pxf.io/qbR6n), with an emphasis on PowerShell-related content. If you are just getting started with PowerShell 7, [I got you covered](pluralsight.pxf.io/Lbvya) there as well.
+
+-----
+
+## ![PS](images/powershell-emoji.png) Recommendations
+
+There is a wealth of code on GitHub. These are a few recommendations for PowerShell-related repositories. Many of these people have published modules in the PowerShell Gallery.
+
+- [![Doug Finke](https://img.shields.io/badge/Doug%20Finke-%40dfinke-green?style=for-the-badge&logo=github)](https://github.com/dfinke)
+- [![Dave Carroll](https://img.shields.io/badge/Dave%20Carroll-%40theDaveCarroll-green?style=for-the-badge&logo=github)](https://github.com/thedavecarroll/)
+- [![Josh King](https://img.shields.io/badge/Josh%20King-%40Windos-green?style=for-the-badge&logo=github)](https://github.com/windos)
+- [![Justin Grote](https://img.shields.io/badge/Justin%20Grote-%40JustinGrote-green?style=for-the-badge&logo=github)](https://github.com/justingrote)
 
 ## :octocat: GitHub Stats
 
