@@ -1,6 +1,8 @@
 # Jeff Hicks
 
-## ![ps](images/powershell-emoji.png) _"Those who forget to automate are doomed to repeat their work"._
+![ps](images/MVP-Logo-small.png)
+
+## _"Those who forget to automate are doomed to repeat their work"._
 
 I am a veteran IT Pro and scripting fiend, going all the way back to batch files in the early days of DOS. I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. I blog frequently at <https://jdhitsolutions.com/blog>. Here is a sample of my latests posts.
 
@@ -16,7 +18,9 @@ I am a veteran IT Pro and scripting fiend, going all the way back to batch files
 
 ## :bulb:Current Work
 
-These are some of my current GitHub projects that I think you'll find the most useful. Much of my work is PowerShell-related, and most modules can be installed from the PowerShell Gallery. You can find all of my repositories [here](https://github.com/jdhitsolutions?tab=repositories). You might also find useful bits of information in my [gists](https://gist.github.com/jdhitsolutions).
+These are some of my current GitHub projects that I think you'll find the most useful. Much of my work is PowerShell-related, and most modules can be installed from the PowerShell Gallery. You can find all of my repositories [here](https://github.com/jdhitsolutions?tab=repositories). You might also find useful bits of information in my [gists](https://gist.github.com/jdhitsolutions)
+
+[:heart: Sponsor](https://github.com/sponsors/jdhitsolutions)
 
 Name| Repository | PowerShell Gallery | Notes
 |---|--- | :--- |---|
@@ -35,11 +39,9 @@ In addition to the well-known [_Learn PowerShell in a Month of Lunches_](https:/
 |---|---|
 ![PowerShell PracticePrimer](images/psprimer-thumb.png) | [_The PowerShell Practice Primer_](https://leanpub.com/psprimer) isn't a book to teach your PowerShell, but rather to re-inforce what you already know through 100+ console-based exercises. No scripting is required.
 ![PowerShell Scripting and Toolmaking](images/pstoolmaking-thumbnail.png) | If you have read [_Learn PowerShell Scripting in a Month of Lunches_](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches?a_aid=jdhit&a_bid=2326a8ab), then you are ready for the next step. Don Jones and I wrote this book intending it to be the definitive guide on everything you need to know to be a better PowerShell scripter and toolmaker.
-
-![pluralsight](images/pluralsight_logo.png)
-
-I have been creating video training courses for over ten years. I have a large course catalog at [Pluralsight](pluralsight.pxf.io/qbR6n), with an emphasis on PowerShell-related content. If you are just getting started with PowerShell 7, [I got you covered](pluralsight.pxf.io/Lbvya) there as well.
+![pluralsight](images/Author-Badge_Sq-Black_Small.png) | I have been creating video training courses for over ten years. I have a large course catalog at [Pluralsight](pluralsight.pxf.io/qbR6n), with an emphasis on PowerShell-related content. If you are just getting started with PowerShell 7, [I got you covered](pluralsight.pxf.io/Lbvya) there as well.
 
 ## :octocat: GitHub Stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jdhitsolutions)](https://github.com/jdhitsolutions/github-readme-stats)
+
