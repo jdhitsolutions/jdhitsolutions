@@ -14,7 +14,7 @@ I am a veteran IT Pro and scripting fiend, going all the way back to batch files
 - [Climbing Trees in PowerShell](https://jdhitsolutions.com/blog/active-directory/8173/climbing-trees-in-powershell/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 <!-- BLOG-POST-LIST:END -->
 
-[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjeffhicks)](https://twitter.com/jeffhicks) I am very active on [Twitter](https://twitter.com/jeffhicks) and I hope you'll think about following me. I host an online Twitter chat on the first Friday of every month from 1-2PM Eastern time. Follow along with the `#PSTweetChat` tag.
+[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjeffhicks)](https://twitter.com/jeffhicks) I am very active on [Twitter](https://twitter.com/jeffhicks) and I hope you'll think about following me. I host an online Twitter chat on the first Friday of every month from 1:00-2:00 PM Eastern time. Follow along with the `#PSTweetChat` tag.
 
 ## :bulb:Current Work
 
@@ -27,7 +27,7 @@ Name| Repository | PowerShell Gallery | Notes
 PowerShell Scripting Tools | [PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) | ![PSGallery Version](https://img.shields.io/powershellgallery/v/PSScripttools.png?style=plastic&logo=powershell&label=PowerShell%20Gallery) ![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSScripttools.png?style=plastic&logo=powershell&label=Downloads) | A set of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console. Most should work in both Windows PowerShell and PowerShell 7, even cross-platform.
 PS Release Tools | [PSReleaseTools](https://github.com/jdhitsolutions/PSReleaseTools) | ![PSGallery Version](https://img.shields.io/powershellgallery/v/PSReleaseTools.png?style=plastic&logo=powershell&label=PowerShell%20Gallery)![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSReleaseTools.png?style=plastic&&logo=powershell&label=Downloads) | A set of commands for working with PowerShell 7.x releases, including preview builds.
 PowerShell Type Extension Tools | [PSTypeExtensionTools](https://github.com/jdhitsolutions/PSTypeExtensionTools) | [![PSGallery Version](https://img.shields.io/powershellgallery/v/PSTypeExtensionTools.png?style=plastic&logo=powershell&label=PowerShell%20Gallery)](https://www.powershellgallery.com/packages/PSTypeExtensionTools/) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSTypeExtensionTools.png?style=plastic&&logo=powershell&label=Downloads)](https://www.powershellgallery.com/packages/PSTypeExtensionTools/) | A set of PowerShell tools for working with type extensions.
-Active Directory Reporting Tools | [ADReportingTools](https://github.com/jdhitsolutions/ADReportingTools) | *Under Development* | A set of PowerShell commands to gather information and create reports from Active Directory. This module requires the ActiveDirectory module from Microsoft.
+Active Directory Reporting Tools | [ADReportingTools](https://github.com/jdhitsolutions/ADReportingTools) | *Under Development* | A set of PowerShell commands to gather information and create reports from Active Directory. Requires the ActiveDirectory module from Microsoft.
 Windows Terminal Toolbox | [WTToolBox](https://github.com/jdhitsolutions/WTToolbox) | [![PSGallery Version](https://img.shields.io/powershellgallery/v/WTToolbox.png?style=plastic&logo=powershell&label=PowerShell%20Gallery)](https://www.powershellgallery.com/packages/WTToolBox/) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/WTToolBox.png?style=plastic&&logo=powershell&label=Downloads)](https://www.powershellgallery.com/packages/WTToolBox/) | A set of PowerShell tools for managing and getting the most from the Windows Terminal.
 Windows Sandbox Tools | [WindowsSandBoxTools](https://github.com/jdhitsolutions/WindowsSandboxTools) | *Under Development* | This repository is a collection of PowerShell tools and scripts that I use to run and configure the Windows Sandbox feature that is part of Windows 10 2004.
 
@@ -52,7 +52,6 @@ There is a wealth of code on GitHub. These are a few recommendations for PowerSh
 - [![Josh King](https://img.shields.io/badge/Josh%20King-%40Windos-green?style=for-the-badge&logo=github)](https://github.com/windos)
 - [![Justin Grote](https://img.shields.io/badge/Justin%20Grote-%40JustinGrote-green?style=for-the-badge&logo=github)](https://github.com/justingrote)
 
-## :octocat: GitHub Stats
+## :octocat: My Stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jdhitsolutions)](https://github.com/jdhitsolutions/github-readme-stats)
-
