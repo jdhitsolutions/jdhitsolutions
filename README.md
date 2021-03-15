@@ -2,7 +2,7 @@
 
 ## _"Those who forget to automate are doomed to repeat their work"._
 
-![ps](images/MVP-Logo-small.png)
+![scriptingguy](images/scriptingguy.png) ![ps](images/MVP-Logo-small.png)
 
 I am a veteran IT Pro and scripting fiend, going all the way back to batch files in the early days of DOS. I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. I blog frequently at <https://jdhitsolutions.com/blog>. Here is a sample of my latests posts.
 
