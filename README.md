@@ -7,11 +7,11 @@
 I am a veteran IT Pro and scripting fiend, going all the way back to batch files in the early days of DOS. I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. I blog frequently at <https://jdhitsolutions.com/blog>. Here is a sample of my latests posts.
 
 <!-- BLOG-POST-LIST:START -->
+- [Active Directory Reporting Tools Released](https://jdhitsolutions.com/blog/powershell/8259/active-directory-reporting-tools-released/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 - [Answering the PowerShell Export Challenge](https://jdhitsolutions.com/blog/powershell/8252/answering-the-powershell-export-challenge/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 - [Cleaning with PowerShell Revisited](https://jdhitsolutions.com/blog/powershell/8241/cleaning-with-powershell-revisited/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 - [Solving Another PowerShell Math Challenge](https://jdhitsolutions.com/blog/powershell/8236/solving-another-powershell-math-challenge/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 - [Better Active Directory Reporting with PowerShell](https://jdhitsolutions.com/blog/active-directory/8228/better-active-directory-reporting-with-powershell/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
-- [PowerShell Property Sets to the Rescue](https://jdhitsolutions.com/blog/powershell/8215/powershell-property-sets-to-the-rescue/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 <!-- BLOG-POST-LIST:END -->
 
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjeffhicks)](https://twitter.com/jeffhicks) I am very active on [Twitter](https://twitter.com/jeffhicks) and I hope you'll think about following me. I host an online Twitter chat on the first Friday of every month from 1:00-2:00 PM Eastern time. Follow along with the `#PSTweetChat` tag.
