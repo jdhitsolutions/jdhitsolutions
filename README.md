@@ -1,6 +1,6 @@
 # Jeff Hicks
 
-## _"Those who forget to automate are doomed to repeat their work"._
+## _"Those who forget to automate are doomed to repeat their work."_
 
 ![scriptingguy](images/scriptingguy.png) ![ps](images/MVP-Logo-small.png)
 
