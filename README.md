@@ -7,11 +7,11 @@
 I am a veteran IT Pro and scripting fiend, going all the way back to batch files in the early days of DOS. I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. I blog frequently at <https://jdhitsolutions.com/blog>. Here is a sample of my latest writing:
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a PowerShell Process Detection Tool](https://jdhitsolutions.com/blog/powershell/8321/building-a-powershell-process-detection-tool/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 - [More About PowerShell PSDefaultParameterValues](https://jdhitsolutions.com/blog/powershell/8307/more-about-powershell-psdefaultparametervalues/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 - [Make Defaults a Way of Life](https://jdhitsolutions.com/blog/powershell/8293/make-defaults-a-way-of-life/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 - [Active Directory Group Reporting](https://jdhitsolutions.com/blog/powershell/8270/active-directory-group-reporting/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 - [Active Directory Reporting Tools Released](https://jdhitsolutions.com/blog/powershell/8259/active-directory-reporting-tools-released/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
-- [Answering the PowerShell Export Challenge](https://jdhitsolutions.com/blog/powershell/8252/answering-the-powershell-export-challenge/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 <!-- BLOG-POST-LIST:END -->
 
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjeffhicks)](https://twitter.com/jeffhicks) I am very active on [Twitter](https://twitter.com/jeffhicks) and I hope you'll think about following me. I host an online Twitter chat on the first Friday of every month from 1:00-2:00 PM Eastern time. Follow along with the `#PSTweetChat` tag. You can catch up on past events with the [chat transcripts](https://github.com/jdhitsolutions/PSTweetChat).
