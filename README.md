@@ -7,11 +7,11 @@
 I am a veteran IT Pro and scripting fiend, going all the way back to batch files in the early days of DOS. I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. I blog frequently at <https://jdhitsolutions.com/blog>. Here is a sample of my latest writing:
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell Event Log Mining](https://jdhitsolutions.com/blog/powershell/8386/powershell-event-log-mining/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 - [PowerShell Tough Love](https://jdhitsolutions.com/blog/powershell/8378/powershell-tough-love/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 - [Friday Fun: Counting Down Events with PowerShell](https://jdhitsolutions.com/blog/powershell/8357/friday-fun-counting-down-events-with-powershell/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 - [A Better Way to Manage PowerShell Functions](https://jdhitsolutions.com/blog/powershell/8343/a-better-way-to-manage-powershell-functions/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 - [Unlocking PowerShell Secrets](https://jdhitsolutions.com/blog/powershell/8334/unlocking-powershell-secrets/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
-- [Building a PowerShell Process Detection Tool](https://jdhitsolutions.com/blog/powershell/8321/building-a-powershell-process-detection-tool/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 <!-- BLOG-POST-LIST:END -->
 
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjeffhicks)](https://twitter.com/jeffhicks) I am very active on [Twitter](https://twitter.com/jeffhicks) and I hope you'll think about following me. I host an online Twitter chat on the first Friday of every month from 1:00-2:00 PM Eastern time. Follow along with the `#PSTweetChat` tag. You can catch up on past events with the [chat transcripts](https://github.com/jdhitsolutions/PSTweetChat).
