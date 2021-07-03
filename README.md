@@ -7,11 +7,11 @@
 I am a veteran IT Pro and scripting fiend, going all the way back to batch files in the early days of DOS. I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. I blog frequently at <https://jdhitsolutions.com/blog>. Here is a sample of my latest work:
 
 <!-- BLOG-POST-LIST:START -->
-- [Filtering for Unique Objects in PowerShell](https://jdhitsolutions.com/blog/powershell/8465/filtering-powershell-unique-objects/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
-- [Living the Ultra-Wide Life](https://jdhitsolutions.com/blog/hardware/8441/living-the-ultra-wide-life/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
-- [Hiding TaskBar Search with PowerShell](https://jdhitsolutions.com/blog/powershell/8424/hiding-taskbar-search-with-powershell/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
-- [Managing the Windows 10 Taskbar with PowerShell](https://jdhitsolutions.com/blog/powershell/8420/managing-the-windows-10-taskbar-with-powershell/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
-- [Custom CSV Import with PowerShell](https://jdhitsolutions.com/blog/powershell/8409/custom-csv-import-with-powershell/#utm_source=feed&utm_medium=feed&utm_campaign=feed)
+- [Filtering for Unique Objects in PowerShell](https://jdhitsolutions.com/blog/powershell/8465/filtering-powershell-unique-objects/)
+- [Living the Ultra-Wide Life](https://jdhitsolutions.com/blog/hardware/8441/living-the-ultra-wide-life/)
+- [Hiding TaskBar Search with PowerShell](https://jdhitsolutions.com/blog/powershell/8424/hiding-taskbar-search-with-powershell/)
+- [Managing the Windows 10 Taskbar with PowerShell](https://jdhitsolutions.com/blog/powershell/8420/managing-the-windows-10-taskbar-with-powershell/)
+- [Custom CSV Import with PowerShell](https://jdhitsolutions.com/blog/powershell/8409/custom-csv-import-with-powershell/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjeffhicks)](https://twitter.com/jeffhicks) I am very active on [Twitter](https://twitter.com/jeffhicks) and I hope you'll think about following me. I host an online Twitter chat on the first Friday of every month from 1:00-2:00 PM Eastern time. Follow along with the `#PSTweetChat` tag. You can catch up on past events with the [chat transcripts](https://github.com/jdhitsolutions/PSTweetChat).
