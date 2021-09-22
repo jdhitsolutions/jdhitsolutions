@@ -7,11 +7,11 @@
 I am a veteran IT Pro and scripting fiend, going all the way back to batch files in the early days of DOS. I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. I blog frequently at <https://jdhitsolutions.com/blog>. Here is a sample of my latest work:
 
 <!-- BLOG-POST-LIST:START -->
+- [Fun with Mapping PowerShell Drives](https://jdhitsolutions.com/blog/scripting/8572/fun-with-mapping-powershell-drives/)
 - [Cleaning Up PowerShell Jobs](https://jdhitsolutions.com/blog/powershell/8564/cleaning-up-powershell-jobs/)
 - [Getting CIMInstance by Path](https://jdhitsolutions.com/blog/powershell/8541/getting-ciminstance-by-path/)
 - [Doing More with $MyInvocation](https://jdhitsolutions.com/blog/powershell/8526/doing-more-with-myinvocation/)
 - [Using the PowerShell ISE as a Remote Management Console](https://jdhitsolutions.com/blog/powershell/8499/using-the-powershell-ise-as-a-remote-management-console/)
-- [Searching for PowerShell with CIM](https://jdhitsolutions.com/blog/powershell/8492/searching-for-powershell-with-cim/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjeffhicks)](https://twitter.com/jeffhicks) I am very active on [Twitter](https://twitter.com/jeffhicks) and I hope you'll think about following me. I host an online Twitter chat on the first Friday of every month from 1:00-2:00 PM Eastern time. Follow along with the `#PSTweetChat` tag. You can catch up on past events with the [chat transcripts](https://github.com/jdhitsolutions/PSTweetChat).
