@@ -1,6 +1,6 @@
 # Jeff Hicks
 
-<img src="images/MVP-Logo-small.png" alt="MVP" align="left" style="float: left; padding: 0px 10px 10px 10px;"> I am a veteran IT Pro and scripting fanatic, going all the way back to batch files in the early days of DOS. Today, I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. You can often find me speaking to user groups and at IT conferences like Techmentor. I blog frequently at <https://jdhitsolutions.com/blog>.
+<img src="images/MVP-Logo-small.png" alt="MVP" align="left" style="float: left; padding: 0px 10px 10px 10px;"> I am a veteran IT Pro and scripting fanatic, going back to batch files in the early days of DOS. Today, I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. You can often find me speaking to user groups and at IT conferences like Techmentor. I blog frequently at <https://jdhitsolutions.com/blog>.
 
 Here is a sample of my latest work:
 
@@ -12,15 +12,17 @@ Here is a sample of my latest work:
 - [Social is Hard](https://jdhitsolutions.com/blog/powershell/9184/social-is-hard/?utm_source=rss&utm_medium=rss&utm_campaign=social-is-hard)
 <!-- BLOG-POST-LIST:END -->
 
-[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjeffhicks)](https://twitter.com/jeffhicks) I am very active on [Twitter](https://twitter.com/jeffhicks) and I hope you'll think about following me. I host an online Twitter chat on the first Friday of every month from 1:00-2:00 PM Eastern time. Follow along with the `#PSTweetChat` tag. You can catch up on past events with the [chat transcripts](https://github.com/jdhitsolutions/PSTweetChat). I am also testing the social media waters at <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon.</a>
+[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjeffhicks)](https://twitter.com/jeffhicks) You can find me on [Twitter](https://twitter.com/jeffhicks) and I hope you'll think about following me. I host an online Twitter chat on the first Friday of every month from 1:00-2:00 PM Eastern time. Follow along with the `#PSTweetChat` tag. You can catch up on past events with the [chat transcripts](https://github.com/jdhitsolutions/PSTweetChat). My engagement on Twitter is slowing and you'll find me more active on <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon.</a>
 
-:newspaper: You might be interested in subscribing to my premium newsletter on Substack called [Behind the PowerShell Pipeline](https://jeffhicks.substack.com) which dives deeper into PowerShell and the culture around it.
+## Go Premium
+
+:newspaper: You might be interested in subscribing to my premium newsletter on Substack called [Behind the PowerShell Pipeline](https://jeffhicks.substack.com) which dives deeper into PowerShell and the culture around it. You can subscribe for free and receive limited content. Premium members get content like [this](https://jeffhicks.substack.com/p/are-you-my-type).
 
 ## <p align="center"> _"Those who forget to automate are doomed to repeat their work."_ </p>
 
-## :bulb:Current Work
+## :bulb: Current Work
 
-<img src = "images/scriptingguy.png" alt="scripting guy" style="float: left; padding: 0px 10px 10px 10px;" align="left"> The list below includes some of my current GitHub projects that I think will be of interest to most IT professionals. I write these modules not only to solve common problems or add value to your daily work routine, but also to serve as teaching opportunities. As you might expect, much of my work is PowerShell-related, and most modules can be installed from the PowerShell Gallery. You can find all of my repositories by clicking the Repositories link above or [here](https://github.com/jdhitsolutions?tab=repositories).
+<img src = "images/scriptingguy.png" alt="scripting guy" style="float: left; padding: 0px 10px 10px 10px;" align="left"> The list below includes some of my current GitHub projects that I think will be of interest to most IT professionals. I write these modules not only to solve common problems or add value to your daily work routine but also to serve as teaching opportunities. As you might expect, much of my work is PowerShell-related, and most modules can be installed from the PowerShell Gallery. You can find all of my repositories by clicking the Repositories link above or [here](https://github.com/jdhitsolutions?tab=repositories).
 
 You might also find useful bits of information in my [gists](https://gist.github.com/jdhitsolutions).
 
@@ -30,7 +32,7 @@ Name| Repository | PowerShell Gallery | Notes
 |---|--- | :--- |---|
 PowerShell Scripting Tools | [PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) | ![PSGallery Version](https://img.shields.io/powershellgallery/v/PSScripttools.png?style=for-the-badge&logo=powershell&label=PSScriptTools) ![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSScripttools.png?style=for-the-badge&logo=powershell&label=Downloads) | A set of PowerShell functions you might use to enhance your functions and scripts or to facilitate working in the console. Most commands should work in both Windows PowerShell and PowerShell 7, even cross-platform.
 PS Release Tools | [PSReleaseTools](https://github.com/jdhitsolutions/PSReleaseTools) | ![PSGallery Version](https://img.shields.io/powershellgallery/v/PSReleaseTools.png?style=for-the-badge&logo=powershell&label=PSReleaseTools)![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSReleaseTools.png?style=for-the-badge&logo=powershell&label=Downloads) | A set of commands for working with PowerShell 7.x releases, including preview builds.
-PowerShell Type Extension Tools | [PSTypeExtensionTools](https://github.com/jdhitsolutions/PSTypeExtensionTools) | [![PSGallery Version](https://img.shields.io/powershellgallery/v/PSTypeExtensionTools.png?style=for-the-badge&logo=powershell&label=PSTypeExtensionTools)](https://www.powershellgallery.com/packages/PSTypeExtensionTools/) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSTypeExtensionTools.png?style=for-the-badge&&logo=powershell&label=Downloads)](https://www.powershellgallery.com/packages/PSTypeExtensionTools/) | A set of PowerShell tools for working with type extensions.
+Windows Terminal Toolbox | [WTToolBox](https://github.com/jdhitsolutions/WTToolBox) | [![PSGallery Version](https://img.shields.io/powershellgallery/v/WTToolBox.png?style=for-the-badge&logo=powershell&label=WTToolBox)](https://www.powershellgallery.com/packages/WTToolBox/) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/WTToolBox.png?style=for-the-badge&&logo=powershell&label=Downloads)](https://www.powershellgallery.com/packages/WTToolBox/) | A set of PowerShell functions for managing and working with the Windows Terminal application from Microsoft.
 Active Directory Reporting Tools | [ADReportingTools](https://github.com/jdhitsolutions/ADReportingTools) | ![PSGallery Version](https://img.shields.io/powershellgallery/v/ADReportingTools.png?style=for-the-badge&logo=powershell&label=ADReportingTools)![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/ADReportingTools.png?style=for-the-badge&&logo=powershell&label=Downloads)| A set of PowerShell commands to gather information and create reports from Active Directory. Requires the ActiveDirectory module from Microsoft.
 
 ## :book: Books and Courses :mortar_board:
@@ -54,6 +56,7 @@ In addition to the well-known [_Learn PowerShell in a Month of Lunches_](https:/
 - [![Justin Grote](https://img.shields.io/badge/Justin%20Grote-%40JustinGrote-green?style=for-the-badge&logo=github)](https://github.com/justingrote)
 - [![Tim Warner](https://img.shields.io/badge/Tim%20Warner-%40TimWarner-green?style=for-the-badge&logo=github)](https://github.com/timothywarner)
 - [![Kevin Marquette](https://img.shields.io/badge/Kevin%20Marquette-%40KevinMarquette-green?style=for-the-badge&logo=github)](https://github.com/KevinMarquette)
+- [![mdgrs-mei](https://img.shields.io/badge/mdgrs--mei-%40mdgrs--mei-green?style=for-the-badge&logo=github)](https://github.com/mdgrs-mei)
 
 -----
 
