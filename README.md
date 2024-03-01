@@ -5,11 +5,11 @@
 Here is a sample of my latest work:
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell Refresh](https://jdhitsolutions.com/blog/powershell/9325/powershell-refresh/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-refresh)
 - [Module Linking](https://jdhitsolutions.com/blog/powershell/9323/module-linking/?utm_source=rss&utm_medium=rss&utm_campaign=module-linking)
 - [Friday Fun with PSQuizzes](https://jdhitsolutions.com/blog/powershell/9260/friday-fun-with-psquizzes/?utm_source=rss&utm_medium=rss&utm_campaign=friday-fun-with-psquizzes)
 - [Discover Enums with Get-TypeMember](https://jdhitsolutions.com/blog/powershell/9247/discover-enums-with-get-typemember/?utm_source=rss&utm_medium=rss&utm_campaign=discover-enums-with-get-typemember)
 - [Exposing the Mystery of PowerShell Objects](https://jdhitsolutions.com/blog/powershell/9229/exposing-the-mystery-of-powershell-objects/?utm_source=rss&utm_medium=rss&utm_campaign=exposing-the-mystery-of-powershell-objects)
-- [Automation Decisions](https://jdhitsolutions.com/blog/powershell/9225/automation-decisions/?utm_source=rss&utm_medium=rss&utm_campaign=automation-decisions)
 <!-- BLOG-POST-LIST:END -->
 
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjeffhicks)](https://twitter.com/jeffhicks) You can find me on [X](https://twitter.com/jeffhicks) and I hope you'll think about following me. I host an online Twitter/X chat on the first Friday of every month from 1:00-2:00 PM Eastern time. Follow along with the `#PSTweetChat` tag. You can catch up on past events with the [chat transcripts](https://github.com/jdhitsolutions/PSTweetChat). My engagement on Twitter is slowing and you'll find me more active on <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon.</a>
