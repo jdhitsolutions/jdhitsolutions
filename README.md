@@ -5,11 +5,11 @@
 Here is a sample of my latest work:
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell Scripting and Toolmaking](https://jdhitsolutions.com/blog/books/9389/powershell-scripting-and-toolmaking/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-scripting-and-toolmaking)
 - [Pick Up The PowerShell Practice Primer](https://jdhitsolutions.com/blog/books/9352/pick-up-powershell-practice-primer/?utm_source=rss&utm_medium=rss&utm_campaign=pick-up-powershell-practice-primer)
 - [GitHub Scripting Challenge Solution](https://jdhitsolutions.com/blog/powershell/9343/github-scripting-challenge-solution/?utm_source=rss&utm_medium=rss&utm_campaign=github-scripting-challenge-solution)
 - [My Conference Future](https://jdhitsolutions.com/blog/conferences/9327/my-conference-future/?utm_source=rss&utm_medium=rss&utm_campaign=my-conference-future)
 - [PowerShell Refresh](https://jdhitsolutions.com/blog/powershell/9325/powershell-refresh/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-refresh)
-- [Module Linking](https://jdhitsolutions.com/blog/powershell/9323/module-linking/?utm_source=rss&utm_medium=rss&utm_campaign=module-linking)
 <!-- BLOG-POST-LIST:END -->
 
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjeffhicks)](https://twitter.com/jeffhicks) You can find me on [X](https://twitter.com/jeffhicks) and I hope you'll think about following me. I host an online Twitter/X chat on the first Friday of every month from 1:00-2:00 PM Eastern time. Follow along with the `#PSTweetChat` tag. You can catch up on past events with the [chat transcripts](https://github.com/jdhitsolutions/PSTweetChat). My engagement on Twitter is slowing and you'll find me more active on <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon.</a>
