@@ -1,6 +1,6 @@
 # Jeff Hicks
 
-<img src="images/MVP-Logo-small.png" alt="MVP" align="left" style="float: left; padding: 0px 10px 10px 10px;"> I am a veteran IT Pro and scripting fanatic, going back to batch files in the early days of DOS. Today, I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. You can often find me speaking to user groups and at IT conferences like Techmentor. I blog frequently at <https://jdhitsolutions.com/blog>.
+<img src="images/MVP-Logo-small.png" alt="MVP" align="left" style="float: left; padding: 0px 10px 10px 10px;"> I am a veteran IT Pro and scripting fanatic, going back to batch files in the early days of DOS. Today, I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. You can often find me speaking to user groups and at IT conferences like Techmentor. You can learn about me and links to all of my online activities, including a premium newsletter at <https://jdhitsolutions.github.io>.
 
 Here is a sample of my latest work:
 
@@ -12,7 +12,7 @@ Here is a sample of my latest work:
 - [My Conference Future](https://jdhitsolutions.com/blog/conferences/9327/my-conference-future/?utm_source=rss&utm_medium=rss&utm_campaign=my-conference-future)
 <!-- BLOG-POST-LIST:END -->
 
-[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjeffhicks)](https://twitter.com/jeffhicks) You can find me on [X](https://twitter.com/jeffhicks) and I hope you'll think about following me. I host an online Twitter/X chat on the first Friday of every month from 1:00-2:00 PM Eastern time. Follow along with the `#PSTweetChat` tag. You can catch up on past events with the [chat transcripts](https://github.com/jdhitsolutions/PSTweetChat). My engagement on Twitter is slowing and you'll find me more active on <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon.</a>
+[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjeffhicks)](https://twitter.com/jeffhicks) You can find me on [X](https://twitter.com/jeffhicks) and I hope you'll think about following me, althouth my engagement on Twitter is slowing and you'll find me more active on <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon.</a> and [BlueSky](https://bsky.app/profile/jeffhicks.bsky.social).
 
 ## Go Premium :newspaper:
 
@@ -54,7 +54,7 @@ In addition to the well-known [_Learn PowerShell in a Month of Lunches_](https:/
 - [![Dave Carroll](https://img.shields.io/badge/Dave%20Carroll-%40theDaveCarroll-green?style=for-the-badge&logo=github)](https://github.com/thedavecarroll/)
 - [![Josh King](https://img.shields.io/badge/Josh%20King-%40Windos-green?style=for-the-badge&logo=github)](https://github.com/windos)
 - [![Justin Grote](https://img.shields.io/badge/Justin%20Grote-%40JustinGrote-green?style=for-the-badge&logo=github)](https://github.com/justingrote)
-- [![Tim Warner](https://img.shields.io/badge/Tim%20Warner-%40TimWarner-green?style=for-the-badge&logo=github)](https://github.com/timothywarner)
+- [![Timothy Warner](https://img.shields.io/badge/Timothy%20Warner-%40TimothyWarner-green?style=for-the-badge&logo=github)](https://github.com/timothywarner)
 - [![Kevin Marquette](https://img.shields.io/badge/Kevin%20Marquette-%40KevinMarquette-green?style=for-the-badge&logo=github)](https://github.com/KevinMarquette)
 - [![mdgrs-mei](https://img.shields.io/badge/mdgrs--mei-%40mdgrs--mei-green?style=for-the-badge&logo=github)](https://github.com/mdgrs-mei)
 
