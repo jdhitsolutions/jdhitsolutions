@@ -12,11 +12,13 @@ Here is a sample of my latest work:
 - [My Conference Future](https://jdhitsolutions.com/blog/conferences/9327/my-conference-future/?utm_source=rss&utm_medium=rss&utm_campaign=my-conference-future)
 <!-- BLOG-POST-LIST:END -->
 
-[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjeffhicks)](https://twitter.com/jeffhicks) You can find me on [X](https://twitter.com/jeffhicks) and I hope you'll think about following me, althouth my engagement on Twitter is slowing and you'll find me more active on <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon.</a> and [BlueSky](https://bsky.app/profile/jeffhicks.bsky.social).
+## Social Connections
+
+:butterfly: You'll find me most active on [BlueSky](https://bsky.app/profile/jdhitsolutions.com). and <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon.</a>. I am also on [LinkedIn](https://www.linkedin.com/in/jefferyhicks/). I still have an account on [X](https://twitter.com/jeffhicks), but it is dormant and essentially read-only.
 
 ## Go Premium :newspaper:
 
- <img src="images/behind-logo.png" align="left" style="float: left; padding: 0px 10px 10px 10px;">You might be interested in subscribing to my premium PowerShell newsletter, [Behind the PowerShell Pipeline](https://buttondown.email/behind-the-powershell-pipeline/), which dives deeper into PowerShell and the culture around it. You can subscribe for free and receive limited content. Premium members get content like [this article](https://buttondown.email/behind-the-powershell-pipeline/archive/are-you-my-type/). Paid subscribers have full access to all published content going back to the beginning of 2022.
+ <img src="images/behind-logo.png" align="left" style="float: left; padding: 0px 10px 10px 10px;">You might be interested in subscribing to my premium PowerShell newsletter, [Behind the PowerShell Pipeline](https://buttondown.com/behind-the-powershell-pipeline/), which dives deeper into PowerShell and the culture around it. You can subscribe for free and receive limited content. Premium members get content like [this article](https://buttondown.com/behind-the-powershell-pipeline/archive/are-you-my-type/). Paid subscribers have full access to all published content going back to the beginning of 2022.
 
 ## <p align="center"> _"Those who forget to automate are doomed to repeat their work."_ </p>
 
