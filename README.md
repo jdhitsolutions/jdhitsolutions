@@ -1,6 +1,6 @@
 # Jeff Hicks
 
-<img src="images/MVP-Logo-small.png" alt="MVP" align="left" style="float: left; padding: 0px 10px 10px 10px;"> I am a veteran IT Pro and scripting fanatic, going back to batch files in the early days of DOS. Today, I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. You can often find me speaking to user groups and at IT conferences like Techmentor. You can learn about me and links to all of my online activities, including a premium newsletter at <https://jdhitsolutions.github.io>.
+<img src="images/MVP-Logo-small.png" alt="MVP" align="left" style="float: left; padding: 0px 10px 10px 10px;"> I am a veteran IT Pro and scripting fanatic, going back to batch files in the early days of DOS. Today, I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. You can often find me speaking to user groups and at IT conferences like the PowerShell Summit. You can learn about me and find links to all of my online activities, including a premium newsletter devoted to mastering PowerShell at <https://jdhitsolutions.github.io>.
 
 Here is a sample of my latest work:
 
