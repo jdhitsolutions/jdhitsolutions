@@ -2,16 +2,6 @@
 
 <img src="images/MVP-Logo-small.png" alt="MVP" align="left" style="float: left; padding: 0px 10px 10px 10px;"> I am a veteran IT Pro and scripting fanatic, going back to batch files in the early days of DOS. Today, I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. You can often find me speaking to user groups and at IT conferences like the PowerShell Summit. You can learn about me and find links to all of my online activities, including a premium newsletter devoted to mastering PowerShell at <https://jdhitsolutions.github.io>.
 
-Here is a sample of my latest writings:
-
-<!-- BLOG-POST-LIST:START -->
-- [PowerShell Potluck - May 2025](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-potluck-may-2025/)
-- [PowerShell Potluck April 2025](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-potluck-april-2025/)
-- [March 2025 PowerShell Potluck](https://buttondown.com/behind-the-powershell-pipeline/archive/march-2025-powershell-potluck/)
-- [A Secret Scripting Solution](https://buttondown.com/behind-the-powershell-pipeline/archive/a-secret-scripting-solution/)
-- [January 2025 PowerShell Potluck](https://buttondown.com/behind-the-powershell-pipeline/archive/january-2025-powershell-potluck/)
-<!-- BLOG-POST-LIST:END -->
-
 ## Social Connections
 
 :butterfly: You'll find me most active on [BlueSky](https://bsky.app/profile/jdhitsolutions.com). and <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon.</a>. I am also on [LinkedIn](https://www.linkedin.com/in/jefferyhicks/). I still have an account on [X](https://twitter.com/jeffhicks), but it is dormant and essentially read-only.
