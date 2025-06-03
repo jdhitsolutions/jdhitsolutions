@@ -5,11 +5,11 @@
 Here is a sample of my latest writings:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing PSReminderLite](https://jdhitsolutions.com/blog/powershell/9422/introducing-psreminderlite/?utm_source=rss&utm_medium=rss&utm_campaign=introducing-psreminderlite)
-- [PowerShell Scripting and Toolmaking](https://jdhitsolutions.com/blog/books/9389/powershell-scripting-and-toolmaking/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-scripting-and-toolmaking)
-- [Pick Up The PowerShell Practice Primer](https://jdhitsolutions.com/blog/books/9352/pick-up-powershell-practice-primer/?utm_source=rss&utm_medium=rss&utm_campaign=pick-up-powershell-practice-primer)
-- [GitHub Scripting Challenge Solution](https://jdhitsolutions.com/blog/powershell/9343/github-scripting-challenge-solution/?utm_source=rss&utm_medium=rss&utm_campaign=github-scripting-challenge-solution)
-- [My Conference Future](https://jdhitsolutions.com/blog/conferences/9327/my-conference-future/?utm_source=rss&utm_medium=rss&utm_campaign=my-conference-future)
+- [PowerShell Potluck - May 2025](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-potluck-may-2025/)
+- [PowerShell Potluck April 2025](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-potluck-april-2025/)
+- [March 2025 PowerShell Potluck](https://buttondown.com/behind-the-powershell-pipeline/archive/march-2025-powershell-potluck/)
+- [A Secret Scripting Solution](https://buttondown.com/behind-the-powershell-pipeline/archive/a-secret-scripting-solution/)
+- [January 2025 PowerShell Potluck](https://buttondown.com/behind-the-powershell-pipeline/archive/january-2025-powershell-potluck/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Social Connections
