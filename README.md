@@ -1,6 +1,14 @@
 # Jeff Hicks
 
-<img src="images/MVP-Logo-small.png" alt="MVP" align="left" style="float: left; padding: 0px 10px 10px 10px;"> I am a veteran IT Pro and scripting fanatic, going back to batch files in the early days of DOS. Today, I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. You can often find me speaking to user groups and at IT conferences like the PowerShell Summit. You can learn about me and find links to all of my online activities, including a premium newsletter devoted to mastering PowerShell at <https://jdhitsolutions.github.io>.
+<img src="images/MVP-Logo-small.png" alt="MVP" align="left" style="float: left; padding: 0px 10px 10px 10px;"> I am a veteran IT Pro and scripting fanatic, going back to batch files in the early days of DOS. Today, I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. You can often find me speaking to user groups and at IT conferences like the PowerShell Summit. You can learn about me and find links to all of my online activities, including a premium newsletter devoted to mastering PowerShell at [https://jdhitsolutions.github.io](https://jdhitsolutions.github.io).
+
+Here are the latest issues from the [newsletter](https://jdhitsolutions.com/yourls/newsletter):
+
+- [Are You Sure You Want to Do This?](https://buttondown.com/behind-the-powershell-pipeline/archive/are-you-sure-you-want-to-do-this/)
+- [PowerShell Potluck May 2025](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-potluck-may-2025/)
+- [A Module Measurement Scripting Solution](https://buttondown.com/behind-the-powershell-pipeline/archive/a-module-measurement-scripting-solution/)
+- [PowerShell Scripting Automatic Variables](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-scripting-automatic-variables/)
+- [PowerShell Automatic Variables](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-automatic-variables/)
 
 ## Social Connections
 
@@ -8,7 +16,7 @@
 
 ## Go Premium :newspaper:
 
- <img src="images/behind-logo.png" align="left" style="float: left; padding: 0px 10px 10px 10px;">You might be interested in subscribing to my premium PowerShell newsletter, [Behind the PowerShell Pipeline](https://buttondown.com/behind-the-powershell-pipeline/), which dives deeper into PowerShell and the culture around it. You can subscribe for free and receive limited content. Premium members get content like [this article](https://buttondown.com/behind-the-powershell-pipeline/archive/are-you-my-type/). Paid subscribers have full access to all published content going back to the beginning of 2022.
+ <img src="images/behind-logo.png" alt="Behind the PowerShell Pipeline" align="left" style="float: left; padding: 0px 10px 10px 10px;">You might be interested in subscribing to my premium PowerShell newsletter, [Behind the PowerShell Pipeline](https://buttondown.com/behind-the-powershell-pipeline/), which dives deeper into PowerShell and the culture around it. You can subscribe for free and receive limited content. Premium members get content like [this article](https://buttondown.com/behind-the-powershell-pipeline/archive/are-you-my-type/). Paid subscribers have full access to all published content going back to the beginning of 2022.
 
 ## <p align="center"> _"Those who forget to automate are doomed to repeat their work."_ </p>
 
@@ -20,24 +28,23 @@ You might also find useful bits of information in my GitHub [gists](https://gist
 
 [:heart: Sponsor](https://github.com/sponsors/jdhitsolutions)
 
-Name| Repository | PowerShell Gallery | Notes
-|---|--- | :--- |---|
-PowerShell Scripting Tools | [PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) | ![PSGallery Version](https://img.shields.io/powershellgallery/v/PSScripttools.png?style=for-the-badge&logo=powershell&label=PSScriptTools) ![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSScripttools.png?style=for-the-badge&logo=powershell&label=Downloads) | A set of PowerShell functions you might use to enhance your functions and scripts or to facilitate working in the console. Most commands should work in both Windows PowerShell and PowerShell 7, even cross-platform.
-PS Release Tools | [PSReleaseTools](https://github.com/jdhitsolutions/PSReleaseTools) | ![PSGallery Version](https://img.shields.io/powershellgallery/v/PSReleaseTools.png?style=for-the-badge&logo=powershell&label=PSReleaseTools)![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSReleaseTools.png?style=for-the-badge&logo=powershell&label=Downloads) | A set of commands for working with PowerShell 7.x releases, including preview builds.
-PSBluesky | [PSBluesky](https://github.com/jdhitsolutions/PSBluesky) | [![PSGallery Version](https://img.shields.io/powershellgallery/v/PSBluesky.png?style=for-the-badge&logo=powershell&label=PSBluesky)](https://www.powershellgallery.com/packages/PSBluesky/) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSBluesky.png?style=for-the-badge&&logo=powershell&label=Downloads)](https://www.powershellgallery.com/packages/PSBluesky/) | A set of PowerShell functions for using the Bluesky API.
-PSWorkItem | [PSWorkItem](https://github.com/jdhitsolutions/PSWorkItem) | ![PSGallery Version](https://img.shields.io/powershellgallery/v/PSWorkItem.png?style=for-the-badge&logo=powershell&label=PSWorkItem)![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSWorkItem.png?style=for-the-badge&&logo=powershell&label=Downloads)| A PowerShell 7 module for managing work and personal tasks or to-do items. This module uses a SQLite database to store task and category information.
+|Name| Repository | PowerShell Gallery | Notes|
+|--- |   --- | :--- |---|
+|PowerShell Scripting Tools | [PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) | ![PSGallery Version](https://img.shields.io/powershellgallery/v/PSScripttools.png?style=for-the-badge&logo=powershell&label=PSScriptTools) ![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSScripttools.png?style=for-the-badge&logo=powershell&label=Downloads) | A set of PowerShell functions you might use to enhance your functions and scripts or to facilitate working in the console. Most commands should work in both Windows PowerShell and PowerShell 7, even cross-platform. |
+|PS Release Tools | [PSReleaseTools](https://github.com/jdhitsolutions/PSReleaseTools) | ![PSGallery Version](https://img.shields.io/powershellgallery/v/PSReleaseTools.png?style=for-the-badge&logo=powershell&label=PSReleaseTools)![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSReleaseTools.png?style=for-the-badge&logo=powershell&label=Downloads) | A set of commands for working with PowerShell 7.x releases, including preview builds. |
+|PSBluesky | [PSBluesky](https://github.com/jdhitsolutions/PSBluesky) | [![PSGallery Version](https://img.shields.io/powershellgallery/v/PSBluesky.png?style=for-the-badge&logo=powershell&label=PSBluesky)](https://www.powershellgallery.com/packages/PSBluesky/) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSBluesky.png?style=for-the-badge&&logo=powershell&label=Downloads)](https://www.powershellgallery.com/packages/PSBluesky/) | A set of PowerShell functions for using the Bluesky API. |
+|PSWorkItem | [PSWorkItem](https://github.com/jdhitsolutions/PSWorkItem) | ![PSGallery Version](https://img.shields.io/powershellgallery/v/PSWorkItem.png?style=for-the-badge&logo=powershell&label=PSWorkItem)![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSWorkItem.png?style=for-the-badge&&logo=powershell&label=Downloads)| A PowerShell 7 module for managing work and personal tasks or to-do items. This module uses a SQLite database to store task and category information. |
 
 ## :book: Books and Courses :mortar_board:
 
 In addition to the well-known [_Learn PowerShell in a Month of Lunches_](https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-third-edition?a_aid=jdhit&a_bid=2326a8ab) book, you can find my other work on Leanpub.
 
 |   |   |
-|---|---|
-![Behind the PowerShell Pipeline](images/psbehind-book.png) | [_Behind the PowerShell Pipeline_](https://jdhitsolutions.com/yourls/psbehind) is a guide to writing PowerShell code that is human-centered. It is about the intangible parts of PowerShell that you should keep in mind when using it or writing code.
-![PowerShell PracticePrimer](images/psprimer-thumb.png) | [_The PowerShell Practice Primer_](https://leanpub.com/psprimer) isn't a book to teach your PowerShell, but rather to re-enforce what you already know through 100+ console-based exercises. No scripting is required. Updated with PowerShell 7.x content.
-![PowerShell Scripting and Toolmaking](images/pstoolmaking-thumbnail.png) | If you have read [_Learn PowerShell Scripting in a Month of Lunches_](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches?a_aid=jdhit&a_bid=2326a8ab), then you are ready for the next step. Don Jones and I wrote this book intending it to be the definitive guide on everything you need to know to be a better PowerShell scripter and toolmaker.
-![pluralsight](images/ps-skills-thumb.jpg) | I have been creating video training courses for over ten years. I have a large course catalog at [Pluralsight](https://pluralsight.pxf.io/qbR6n), with an emphasis on PowerShell-related content. If you are just getting started with PowerShell 7, [I got you covered](https://pluralsight.pxf.io/Lbvya) there as well.
------
+| ----- | ------------ |
+| ![Behind the PowerShell Pipeline](images/psbehind-book.png) | [_Behind the PowerShell Pipeline_](https://jdhitsolutions.com/yourls/psbehind) is a guide to writing PowerShell code that is human-centered. It is about the intangible parts of PowerShell that you should keep in mind when using it or writing code.|
+| ![PowerShell PracticePrimer](images/psprimer-thumb.png) | [_The PowerShell Practice Primer_](https://leanpub.com/psprimer) isn't a book to teach you PowerShell, but rather to re-enforce what you already know through 100+ console-based exercises. No scripting is required. No lab setups. Updated with PowerShell 7.x content.|
+| ![PowerShell Scripting and Toolmaking](images/pstoolmaking-thumbnail.png) | If you have read [_Learn PowerShell Scripting in a Month of Lunches_](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches?a_aid=jdhit&a_bid=2326a8ab), then you are ready for the next step. Don Jones and I wrote this book intending it to be the definitive guide on everything you need to know to be a better PowerShell scripter and toolmaker. |
+| ![pluralsight](images/ps-skills-thumb.jpg) | I have been creating video training courses for over ten years. I have a large course catalog at [Pluralsight](https://pluralsight.pxf.io/qbR6n), with an emphasis on PowerShell-related content. If you are just getting started with PowerShell 7, [I got you covered](https://pluralsight.pxf.io/Lbvya) there as well.|
 
 ## ![PS](images/powershell-emoji.png) Recommendations
 
@@ -53,7 +60,6 @@ In addition to the well-known [_Learn PowerShell in a Month of Lunches_](https:/
 - [![Chrissy LeMaire](https://img.shields.io/badge/Chrissy%20LeMaire-%40potatoqualitee-green?style=for-the-badge&logo=github)](https://github.com/potatoqualitee)
 - [![James Brundage](https://img.shields.io/badge/James%20Brundage-%40startautomating-green?style=for-the-badge&logo=github)](https://github.com/startautomating)
 - [![Friedrich "Fred" Weinmann](https://img.shields.io/badge/Friedrich%20Weinmann-%40FriedrichWeinmann-green?style=for-the-badge&logo=github)](https://github.com/FriedrichWeinmann)
-
 
 -----
 
