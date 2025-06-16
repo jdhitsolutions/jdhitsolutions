@@ -4,12 +4,12 @@
 
 Here are the latest issues from the [newsletter](https://jdhitsolutions.com/yourls/newsletter):
 
-- [Are You Sure You Want To Do This?](https://buttondown.com/behind-the-powershell-pipeline/archive/are-you-sure-you-want-to-do-this/)
+- [Creating A Markdown Tooling System Part 2](https://buttondown.com/behind-the-powershell-pipeline/archive/creating-a-markdown-tooling-system-part-2/)
+- [Creating A Markdown Tooling System](https://buttondown.com/behind-the-powershell-pipeline/archive/creating-a-markdown-tooling-system/)
+- [Creating A Markdown File Analyzer](https://buttondown.com/behind-the-powershell-pipeline/archive/creating-a-markdown-file-analyzer/)
+- [Are You Sure You Want To Do This](https://buttondown.com/behind-the-powershell-pipeline/archive/are-you-sure-you-want-to-do-this/)
 - [Powershell Potluck May 2025](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-potluck-may-2025/)
 - [A Module Measurement Scripting Solution](https://buttondown.com/behind-the-powershell-pipeline/archive/a-module-measurement-scripting-solution/)
-- [Powershell Scripting Automatic Variables](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-scripting-automatic-variables/)
-- [Powershell Automatic Variables](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-automatic-variables/)
-- [More Powershell Parameter Validations](https://buttondown.com/behind-the-powershell-pipeline/archive/more-powershell-parameter-validations/)
 
 ## Social Connections
 
