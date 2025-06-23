@@ -4,26 +4,26 @@
 
 Here are the latest issues from the [newsletter](https://jdhitsolutions.com/yourls/newsletter):
 
+- [Writing Lessons](https://buttondown.com/behind-the-powershell-pipeline/archive/writing-lessons/)
+- [Creating A Markdown Tooling System Part 3](https://buttondown.com/behind-the-powershell-pipeline/archive/creating-a-markdown-tooling-system-part-3/)
 - [Creating A Markdown Tooling System Part 2](https://buttondown.com/behind-the-powershell-pipeline/archive/creating-a-markdown-tooling-system-part-2/)
 - [Creating A Markdown Tooling System](https://buttondown.com/behind-the-powershell-pipeline/archive/creating-a-markdown-tooling-system/)
 - [Creating A Markdown File Analyzer](https://buttondown.com/behind-the-powershell-pipeline/archive/creating-a-markdown-file-analyzer/)
 - [Are You Sure You Want To Do This](https://buttondown.com/behind-the-powershell-pipeline/archive/are-you-sure-you-want-to-do-this/)
-- [Powershell Potluck May 2025](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-potluck-may-2025/)
-- [A Module Measurement Scripting Solution](https://buttondown.com/behind-the-powershell-pipeline/archive/a-module-measurement-scripting-solution/)
 
 ## Social Connections
 
-:butterfly: You'll find me most active on [BlueSky](https://bsky.app/profile/jdhitsolutions.com). and <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon.</a>. I am also on [LinkedIn](https://www.linkedin.com/in/jefferyhicks/). I still have an account on [X](https://twitter.com/jeffhicks), but it is dormant and essentially read-only.
+:butterfly: You'll find me most active on [BlueSky](https://bsky.app/profile/jdhitsolutions.com) and <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon.</a>. I am also on [LinkedIn](https://www.linkedin.com/in/jefferyhicks/). I still have an account on [X](https://twitter.com/jeffhicks), but it is dormant and essentially read-only.
 
 ## Go Premium :newspaper:
 
- <img src="images/behind-logo.png" alt="Behind the PowerShell Pipeline" align="left" style="float: left; padding: 0px 10px 10px 10px;">You might be interested in subscribing to my premium PowerShell newsletter, [Behind the PowerShell Pipeline](https://buttondown.com/behind-the-powershell-pipeline/), which dives deeper into PowerShell and the culture around it. You can subscribe for free and receive limited content. Premium members get content like [this article](https://buttondown.com/behind-the-powershell-pipeline/archive/are-you-my-type/). Paid subscribers have full access to all published content going back to the beginning of 2022.
+<img src="images/behind-logo.png" alt="Behind the PowerShell Pipeline" align="left" style="float: left; padding: 0px 10px 10px 10px;">You might be interested in subscribing to my premium PowerShell newsletter, [Behind the PowerShell Pipeline](https://buttondown.com/behind-the-powershell-pipeline/), which dives deeper into PowerShell and the culture around it. You can subscribe for free and receive limited content. Premium members get content like [this article](https://buttondown.com/behind-the-powershell-pipeline/archive/are-you-my-type/). Paid subscribers have full access to all published content going back to the beginning of 2022.
 
 ## <p align="center"> _"Those who forget to automate are doomed to repeat their work."_ </p>
 
 ## :bulb: Current Work
 
-<img src = "images/scriptingguy.png" alt="scripting guy" style="float: left; padding: 0px 10px 10px 10px;" align="left"> The list below includes some of my current GitHub projects that I think will be of interest to most IT professionals. I write these modules not only to solve common problems or add value to your daily work routine but also to serve as teaching opportunities. As you might expect, much of my work is PowerShell-related, and most modules can be installed from the PowerShell Gallery. You can find all of my repositories by clicking the Repositories link above or [here](https://github.com/jdhitsolutions?tab=repositories).
+<img src = "images/scriptingguy.png" alt="scripting guy" style="float: left; padding: 0px 10px 10px 10px;" align="left"> The list below includes some of my current GitHub projects that I think will be of interest to most IT professionals. I write these modules not only to solve common problems or add value to your daily work routine but also to serve as teaching opportunities. As you might expect, much of my work is PowerShell-related, and most modules can be installed from the PowerShell Gallery. You can find all of my repositories by clicking the [Repositories](https://github.com/jdhitsolutions?tab=repositories) link.
 
 You might also find useful bits of information in my GitHub [gists](https://gist.github.com/jdhitsolutions).
 
