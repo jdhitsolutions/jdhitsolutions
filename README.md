@@ -4,12 +4,16 @@
 
 Here are the latest issues from the [newsletter](https://jdhitsolutions.com/yourls/newsletter):
 
-- [Powershell Potluck June 2025](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-potluck-june-2025/)
+[//]: # (start links)
+
+- [Creating Html Reports With PowerShell](https://buttondown.com/behind-the-powershell-pipeline/archive/creating-html-reports-with-powershell/)
+- [PowerShell Potluck June 2025](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-potluck-june-2025/)
 - [A Prime Scripting Solution](https://buttondown.com/behind-the-powershell-pipeline/archive/a-prime-scripting-solution/)
 - [Writing Lessons](https://buttondown.com/behind-the-powershell-pipeline/archive/writing-lessons/)
 - [Creating A Markdown Tooling System Part 3](https://buttondown.com/behind-the-powershell-pipeline/archive/creating-a-markdown-tooling-system-part-3/)
 - [Creating A Markdown Tooling System Part 2](https://buttondown.com/behind-the-powershell-pipeline/archive/creating-a-markdown-tooling-system-part-2/)
-- [Creating A Markdown Tooling System](https://buttondown.com/behind-the-powershell-pipeline/archive/creating-a-markdown-tooling-system/)
+
+[//]: # (end links)
 
 ## Social Connections
 
