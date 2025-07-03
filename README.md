@@ -1,4 +1,4 @@
-# Jeff Hicks
+﻿# Jeff Hicks
 
 <img src="images/MVP-Logo-small.png" alt="MVP" align="left" style="float: left; padding: 0px 10px 10px 10px;"> I am a veteran IT Pro and scripting fanatic, going back to batch files in the early days of DOS. Today, I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. You can often find me speaking to user groups and at IT conferences like the PowerShell Summit. You can learn about me and find links to all of my online activities, including a premium newsletter devoted to mastering PowerShell at [https://jdhitsolutions.github.io](https://jdhitsolutions.github.io).
 
@@ -55,15 +55,16 @@ In addition to the well-known [_Learn PowerShell in a Month of Lunches_](https:/
 
 <img src = "images/PowerShell-transparent-thumb.jpg" alt="ms powershell" style="float: right; padding: 5px 0px 0px 0px;" align="right"> There is a wealth of code on GitHub. These are a few recommendations for PowerShell-related repositories. Many of these people have published modules in the PowerShell Gallery.
 
-- [![Doug Finke](https://img.shields.io/badge/Doug%20Finke-%40dfinke-green?style=for-the-badge&logo=github)](https://github.com/dfinke)
+- [![James Brundage](https://img.shields.io/badge/James%20Brundage-%40startautomating-green?style=for-the-badge&logo=github)](https://github.com/startautomating)
 - [![Dave Carroll](https://img.shields.io/badge/Dave%20Carroll-%40theDaveCarroll-green?style=for-the-badge&logo=github)](https://github.com/thedavecarroll/)
-- [![Josh King](https://img.shields.io/badge/Josh%20King-%40Windos-green?style=for-the-badge&logo=github)](https://github.com/windos)
+- [![EvotecIT](https://img.shields.io/badge/EvotecIT-%40EvotecIT-green?style=for-the-badge&logo=github)](https://github.com/EvotecIT)
+- [![Doug Finke](https://img.shields.io/badge/Doug%20Finke-%40dfinke-green?style=for-the-badge&logo=github)](https://github.com/dfinke)
 - [![Justin Grote](https://img.shields.io/badge/Justin%20Grote-%40JustinGrote-green?style=for-the-badge&logo=github)](https://github.com/justingrote)
-- [![Timothy Warner](https://img.shields.io/badge/Timothy%20Warner-%40TimothyWarner-green?style=for-the-badge&logo=github)](https://github.com/timothywarner)
+- [![Josh King](https://img.shields.io/badge/Josh%20King-%40Windos-green?style=for-the-badge&logo=github)](https://github.com/windos)
+- [![Chrissy LeMaire](https://img.shields.io/badge/Chrissy%20LeMaire-%40potatoqualitee-green?style=for-the-badge&logo=github)](https://github.com/potatoqualitee)
 - [![Kevin Marquette](https://img.shields.io/badge/Kevin%20Marquette-%40KevinMarquette-green?style=for-the-badge&logo=github)](https://github.com/KevinMarquette)
 - [![mdgrs-mei](https://img.shields.io/badge/mdgrs--mei-%40mdgrs--mei-green?style=for-the-badge&logo=github)](https://github.com/mdgrs-mei)
-- [![Chrissy LeMaire](https://img.shields.io/badge/Chrissy%20LeMaire-%40potatoqualitee-green?style=for-the-badge&logo=github)](https://github.com/potatoqualitee)
-- [![James Brundage](https://img.shields.io/badge/James%20Brundage-%40startautomating-green?style=for-the-badge&logo=github)](https://github.com/startautomating)
+- [![Timothy Warner](https://img.shields.io/badge/Timothy%20Warner-%40TimothyWarner-green?style=for-the-badge&logo=github)](https://github.com/timothywarner)
 - [![Friedrich "Fred" Weinmann](https://img.shields.io/badge/Friedrich%20Weinmann-%40FriedrichWeinmann-green?style=for-the-badge&logo=github)](https://github.com/FriedrichWeinmann)
 
 -----
