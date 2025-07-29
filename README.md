@@ -17,11 +17,11 @@ Here are the latest issues from the [newsletter](https://jdhitsolutions.com/your
 
 ## Social Connections
 
-:butterfly: You'll find me most active on [BlueSky](https://bsky.app/profile/jdhitsolutions.com) and <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon.</a>. I am also on [LinkedIn](https://www.linkedin.com/in/jefferyhicks/). I still have an account on [X](https://twitter.com/jeffhicks), but it is dormant and essentially read-only.
+:butterfly: You'll find me most active on [Bluesky](https://bsky.app/profile/jdhitsolutions.com) and <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon.</a>. I am also on [LinkedIn](https://www.linkedin.com/in/jefferyhicks/). I still have an account on [X](https://twitter.com/jeffhicks), but it is dormant and essentially read-only.
 
 ## Go Premium :newspaper:
 
-<img src="images/behind-logo.png" alt="Behind the PowerShell Pipeline" align="left" style="float: left; padding: 0px 10px 10px 10px;">You might be interested in subscribing to my premium PowerShell newsletter, [Behind the PowerShell Pipeline](https://buttondown.com/behind-the-powershell-pipeline/), which dives deeper into PowerShell and the culture around it. You can subscribe for free and receive limited content. Premium members get content like [this article](https://buttondown.com/behind-the-powershell-pipeline/archive/are-you-my-type/). Paid subscribers have full access to all published content going back to the beginning of 2022.
+<img src="images/behind-logo.png" alt="Behind the PowerShell Pipeline" align="left" style="float: left; padding: 0px 10px 10px 10px;">You might be interested in subscribing to my premium PowerShell newsletter, [Behind the PowerShell Pipeline](https://jdhitsolutions.com/yourls/newsletter), which dives deeper into PowerShell and the culture around it. You can subscribe for free and receive limited content. Premium members get content like [this article](https://buttondown.com/behind-the-powershell-pipeline/archive/are-you-my-type/). Paid subscribers have full access to all published content going back to the beginning of 2022.
 
 ## <p align="center"> _"Those who forget to automate are doomed to repeat their work."_ </p>
 
@@ -47,9 +47,9 @@ In addition to the well-known [_Learn PowerShell in a Month of Lunches_](https:/
 |   |   |
 | ----- | ------------ |
 | ![Behind the PowerShell Pipeline](images/psbehind-book.png) | [_Behind the PowerShell Pipeline_](https://jdhitsolutions.com/yourls/psbehind) is a guide to writing PowerShell code that is human-centered. It is about the intangible parts of PowerShell that you should keep in mind when using it or writing code.|
-| ![PowerShell PracticePrimer](images/psprimer-thumb.png) | [_The PowerShell Practice Primer_](https://leanpub.com/psprimer) isn't a book to teach you PowerShell, but rather to re-enforce what you already know through 100+ console-based exercises. No scripting is required. No lab setups. Updated with PowerShell 7.x content.|
+| ![PowerShell PracticePrimer](images/psprimer-thumb.png) | [_The PowerShell Practice Primer_](https://jdhitsolutions.com/yourls/psprimer) isn't a book to teach you PowerShell, but rather to re-enforce what you already know through 100+ console-based exercises. No scripting is required. No lab setups. Updated with PowerShell 7.x content.|
 | ![PowerShell Scripting and Toolmaking](images/pstoolmaking-thumbnail.png) | If you have read [_Learn PowerShell Scripting in a Month of Lunches_](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches?a_aid=jdhit&a_bid=2326a8ab), then you are ready for the next step. Don Jones and I wrote this book intending it to be the definitive guide on everything you need to know to be a better PowerShell scripter and toolmaker. |
-| ![pluralsight](images/ps-skills-thumb.jpg) | I have been creating video training courses for over ten years. I have a large course catalog at [Pluralsight](https://pluralsight.pxf.io/qbR6n), with an emphasis on PowerShell-related content. If you are just getting started with PowerShell 7, [I got you covered](https://pluralsight.pxf.io/Lbvya) there as well.|
+| ![pluralsight](images/ps-skills-thumb.jpg) | I have been creating video training courses for over ten years. I have a large course catalog at [Pluralsight](https://www.pluralsight.com/authors/jeff-hicks), with an emphasis on PowerShell-related content. If you are just getting started with PowerShell 7, [I got you covered](https://www.pluralsight.com/courses/installing-running-powershell) there as well.|
 
 ## ![PS](images/powershell-emoji.png) Recommendations
 
