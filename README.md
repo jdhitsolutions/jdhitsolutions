@@ -6,12 +6,12 @@ Here are the latest issues from the [newsletter](https://jdhitsolutions.com/your
 
 [//]: # (start links)
 
+- [Managing Sysinternals With PowerShell](https://buttondown.com/behind-the-powershell-pipeline/archive/managing-sysinternals-with-powershell/)
 - [I Stream Of PowerShell Part 3](https://buttondown.com/behind-the-powershell-pipeline/archive/i-stream-of-powershell-part-3/)
 - [PowerShell Potluck July 2025](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-potluck-july-2025/)
 - [Solving The June 2025 Scripting Challenge](https://buttondown.com/behind-the-powershell-pipeline/archive/solving-the-june-2025-scripting-challenge/)
 - [I Stream Of PowerShell Part 2](https://buttondown.com/behind-the-powershell-pipeline/archive/i-stream-of-powershell-part-2/)
 - [I Stream Of PowerShell](https://buttondown.com/behind-the-powershell-pipeline/archive/i-stream-of-powershell/)
-- [Creating Html Reports With PowerShell Part 4](https://buttondown.com/behind-the-powershell-pipeline/archive/creating-html-reports-with-powershell-part-4/)
 
 [//]: # (end links)
 
