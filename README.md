@@ -6,12 +6,12 @@ Here are the latest issues from the [newsletter](https://jdhitsolutions.com/your
 
 [//]: # (start links)
 
+- [Processing The Process Scripting Challenge](https://buttondown.com/behind-the-powershell-pipeline/archive/processing-the-process-scripting-challenge/)
 - [Exit Codes](https://buttondown.com/behind-the-powershell-pipeline/archive/exit-codes/)
 - [More Method Madness](https://buttondown.com/behind-the-powershell-pipeline/archive/more-method-madness/)
 - [A Method To The Madness Exploring Wmi Methods](https://buttondown.com/behind-the-powershell-pipeline/archive/a-method-to-the-madness-exploring-wmi-methods/)
 - [Managing Sysinternals With PowerShell Part 2](https://buttondown.com/behind-the-powershell-pipeline/archive/managing-sysinternals-with-powershell-part-2/)
 - [Managing Sysinternals With PowerShell](https://buttondown.com/behind-the-powershell-pipeline/archive/managing-sysinternals-with-powershell/)
-- [I Stream Of PowerShell Part 3](https://buttondown.com/behind-the-powershell-pipeline/archive/i-stream-of-powershell-part-3/)
 
 [//]: # (end links)
 
