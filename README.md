@@ -6,12 +6,12 @@ Here are the latest issues from the [newsletter](https://jdhitsolutions.com/your
 
 [//]: # (start links)
 
+- [Trace Tracking](https://buttondown.com/behind-the-powershell-pipeline/archive/trace-tracking/)
 - [Reacting To The Buzz](https://buttondown.com/behind-the-powershell-pipeline/archive/reacting-to-the-buzz/)
 - [What Is Happening](https://buttondown.com/behind-the-powershell-pipeline/archive/what-is-happening/)
 - [More Spectreconsole Scripting](https://buttondown.com/behind-the-powershell-pipeline/archive/more-spectreconsole-scripting/)
 - [Spectreconsole Toolmaking](https://buttondown.com/behind-the-powershell-pipeline/archive/spectreconsole-toolmaking/)
 - [PowerShell Potluck August 2025](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-potluck-august-2025/)
-- [Processing The Process Scripting Challenge](https://buttondown.com/behind-the-powershell-pipeline/archive/processing-the-process-scripting-challenge/)
 
 [//]: # (end links)
 
