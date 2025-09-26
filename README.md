@@ -6,12 +6,12 @@ Here are the latest issues from the [newsletter](https://jdhitsolutions.com/your
 
 [//]: # (start links)
 
+- [Solving The Remoting Scripting Challenge](https://buttondown.com/behind-the-powershell-pipeline/archive/solving-the-remoting-scripting-challenge/)
 - [Popup Power](https://buttondown.com/behind-the-powershell-pipeline/archive/popup-power/)
 - [File System Fixations](https://buttondown.com/behind-the-powershell-pipeline/archive/file-system-fixations/)
 - [Trace Tracking](https://buttondown.com/behind-the-powershell-pipeline/archive/trace-tracking/)
 - [Reacting To The Buzz](https://buttondown.com/behind-the-powershell-pipeline/archive/reacting-to-the-buzz/)
 - [What Is Happening](https://buttondown.com/behind-the-powershell-pipeline/archive/what-is-happening/)
-- [More Spectreconsole Scripting](https://buttondown.com/behind-the-powershell-pipeline/archive/more-spectreconsole-scripting/)
 
 [//]: # (end links)
 
