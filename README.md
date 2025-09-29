@@ -23,7 +23,7 @@ I still have an account on [X](https://twitter.com/jeffhicks), but it is dormant
 
 ## Go Premium :newspaper:
 
-<img src="images/behind-logo.png" alt="Behind the PowerShell Pipeline" align="left" style="float: left; padding: 0px 10px 10px 10px;">You might be interested in subscribing to my premium PowerShell newsletter, [Behind the PowerShell Pipeline](https://jdhitsolutions.com/yourls/newsletter), which dives deeper into PowerShell and the culture around it. You can subscribe for free and receive limited content. Premium members get content like [this article](https://buttondown.com/behind-the-powershell-pipeline/archive/are-you-my-type/). Paid subscribers have full access to all published content going back to the beginning of 2022.
+<img src="images/behind-logo.png" alt="Behind the PowerShell Pipeline" align="left" style="float: left; padding: 0px 10px 10px 10px;">You might be interested in subscribing to my premium PowerShell tutorial service, [Behind the PowerShell Pipeline](https://jdhitsolutions.com/yourls/newsletter), which dives deeper into PowerShell and the culture around it. You can subscribe for free and receive limited content. Premium members get content like [this article](https://buttondown.com/behind-the-powershell-pipeline/archive/are-you-my-type/). Paid subscribers have full access to all published content going back to the beginning of 2022.
 
 ## <p align="center"> _"Those who forget to automate are doomed to repeat their work."_ </p>
 
