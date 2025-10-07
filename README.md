@@ -6,12 +6,12 @@ Here are the latest issues from the [newsletter](https://jdhitsolutions.com/your
 
 [//]: # (start links)
 
+- [Color My PowerShell World](https://buttondown.com/behind-the-powershell-pipeline/archive/color-my-powershell-world/)
 - [Creating A Monitoring Service With PowerShell](https://buttondown.com/behind-the-powershell-pipeline/archive/creating-a-monitoring-service-with-powershell/)
 - [September 2025 PowerShell Roundup](https://buttondown.com/behind-the-powershell-pipeline/archive/september-2025-powershell-roundup/)
 - [Solving The Remoting Scripting Challenge](https://buttondown.com/behind-the-powershell-pipeline/archive/solving-the-remoting-scripting-challenge/)
 - [Popup Power](https://buttondown.com/behind-the-powershell-pipeline/archive/popup-power/)
 - [File System Fixations](https://buttondown.com/behind-the-powershell-pipeline/archive/file-system-fixations/)
-- [Trace Tracking](https://buttondown.com/behind-the-powershell-pipeline/archive/trace-tracking/)
 
 [//]: # (end links)
 
