@@ -2,7 +2,7 @@
 
 <img src="images/MVP-Logo-small.png" alt="MVP" align="left" style="float: left; padding: 0px 10px 10px 10px;"> I am a veteran IT Pro and scripting fanatic, going back to batch files in the early days of DOS. Today, I create content, code, and courses intended to teach PowerShell or to make an IT Pro's job a little easier. You can often find me speaking to user groups and at IT conferences like the [PowerShell Summit](https://www.powershellsummit.org/). You can learn about me and find links to all of my online activities, including a premium newsletter devoted to mastering PowerShell at [https://jdhitsolutions.github.io](https://jdhitsolutions.github.io).
 
-Here are the latest issues from the [newsletter](https://jdhitsolutions.com/yourls/newsletter):
+Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutions.com/yourls/newsletter):
 
 [//]: # (start links)
 
@@ -19,7 +19,7 @@ Here are the latest issues from the [newsletter](https://jdhitsolutions.com/your
 
 :butterfly: You'll find me most active on [Bluesky](https://bsky.app/profile/jdhitsolutions.com) and <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon</a>. For professional contacts, you can find me on [LinkedIn](https://www.linkedin.com/in/jefferyhicks/). My Facebook account, if you come across it, is for personal use only.
 
-I still have an account on [X](https://twitter.com/jeffhicks), but it is dormant and essentially read-only. I rarely check it.
+> *I still have an account on [X](https://twitter.com/jeffhicks), but it is dormant and essentially read-only. I rarely check it.*
 
 ## Go Premium :newspaper:
 
