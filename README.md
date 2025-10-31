@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [October 2025 PowerShell Potluck](https://buttondown.com/behind-the-powershell-pipeline/archive/october-2025-powershell-potluck/)
 - [A Namespace Scripting Solution](https://buttondown.com/behind-the-powershell-pipeline/archive/a-namespace-scripting-solution/)
 - [Going Wild With PowerShell](https://buttondown.com/behind-the-powershell-pipeline/archive/going-wild-with-powershell/)
 - [PowerShell Temporary Work](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-temporary-work/)
 - [Finger Fun More Keybinding Tips And Tricks](https://buttondown.com/behind-the-powershell-pipeline/archive/finger-fun-more-keybinding-tips-and-tricks/)
 - [Color Conversions](https://buttondown.com/behind-the-powershell-pipeline/archive/color-conversions/)
-- [Color My PowerShell World](https://buttondown.com/behind-the-powershell-pipeline/archive/color-my-powershell-world/)
 
 [//]: # (end links)
 
