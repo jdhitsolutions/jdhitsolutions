@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [Object Formatting Fun](https://buttondown.com/behind-the-powershell-pipeline/archive/object-formatting-fun/)
 - [Pretty Easy](https://buttondown.com/behind-the-powershell-pipeline/archive/pretty-easy/)
 - [Object Polishing](https://buttondown.com/behind-the-powershell-pipeline/archive/object-polishing/)
 - [I Object](https://buttondown.com/behind-the-powershell-pipeline/archive/i-object/)
 - [Get My Things](https://buttondown.com/behind-the-powershell-pipeline/archive/get-my-things/)
 - [October 2025 PowerShell Potluck](https://buttondown.com/behind-the-powershell-pipeline/archive/october-2025-powershell-potluck/)
-- [A Namespace Scripting Solution](https://buttondown.com/behind-the-powershell-pipeline/archive/a-namespace-scripting-solution/)
 
 [//]: # (end links)
 
