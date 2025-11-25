@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [A Driveinfo Solution](https://buttondown.com/behind-the-powershell-pipeline/archive/a-driveinfo-solution/)
 - [Whats New Is Even Better](https://buttondown.com/behind-the-powershell-pipeline/archive/whats-new-is-even-better/)
 - [Object Formatting Fun](https://buttondown.com/behind-the-powershell-pipeline/archive/object-formatting-fun/)
 - [Pretty Easy](https://buttondown.com/behind-the-powershell-pipeline/archive/pretty-easy/)
 - [Object Polishing](https://buttondown.com/behind-the-powershell-pipeline/archive/object-polishing/)
 - [I Object](https://buttondown.com/behind-the-powershell-pipeline/archive/i-object/)
-- [Get My Things](https://buttondown.com/behind-the-powershell-pipeline/archive/get-my-things/)
 
 [//]: # (end links)
 
