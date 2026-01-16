@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [PowerShell Hide And Seek](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-hide-and-seek/)
 - [PowerShell Category Streams](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-category-streams/)
 - [Dynamic Type Formatting In PowerShell](https://buttondown.com/behind-the-powershell-pipeline/archive/dynamic-type-formatting-in-powershell/)
 - [More Fancy PowerShell Formatting Options](https://buttondown.com/behind-the-powershell-pipeline/archive/more-fancy-powershell-formatting-options/)
 - [December 2025 PowerShell Last Call](https://buttondown.com/behind-the-powershell-pipeline/archive/december-2025-powershell-last-call/)
 - [Leaping To A PowerShell Solution](https://buttondown.com/behind-the-powershell-pipeline/archive/leaping-to-a-powershell-solution/)
-- [More Formatting Fun With Pwshspectreconsole](https://buttondown.com/behind-the-powershell-pipeline/archive/more-formatting-fun-with-pwshspectreconsole/)
 
 [//]: # (end links)
 
