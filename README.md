@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [Registry Management With PowerShell And Net](https://buttondown.com/behind-the-powershell-pipeline/archive/registry-management-with-powershell-and-net/)
 - [More Registry Roaming](https://buttondown.com/behind-the-powershell-pipeline/archive/more-registry-roaming/)
 - [Capturing The Registry With A Dotnet](https://buttondown.com/behind-the-powershell-pipeline/archive/capturing-the-registry-with-a-dotnet/)
 - [January 2026 PowerShell Roundup](https://buttondown.com/behind-the-powershell-pipeline/archive/january-2026-powershell-roundup/)
 - [A Custom Psversiontable Solution](https://buttondown.com/behind-the-powershell-pipeline/archive/a-custom-psversiontable-solution/)
 - [Streaming File History](https://buttondown.com/behind-the-powershell-pipeline/archive/streaming-file-history/)
-- [PowerShell Hide And Seek](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-hide-and-seek/)
 
 [//]: # (end links)
 
