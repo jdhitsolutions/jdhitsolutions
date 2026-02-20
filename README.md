@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [Proxy Problems](https://buttondown.com/behind-the-powershell-pipeline/archive/proxy-problems/)
 - [Enhancing The Proxy Command](https://buttondown.com/behind-the-powershell-pipeline/archive/enhancing-the-proxy-command/)
 - [Getting Behind PowerShell Proxy Functions](https://buttondown.com/behind-the-powershell-pipeline/archive/getting-behind-powershell-proxy-functions/)
 - [Registry Management With PowerShell And Net](https://buttondown.com/behind-the-powershell-pipeline/archive/registry-management-with-powershell-and-net/)
 - [More Registry Roaming](https://buttondown.com/behind-the-powershell-pipeline/archive/more-registry-roaming/)
 - [Capturing The Registry With A Dotnet](https://buttondown.com/behind-the-powershell-pipeline/archive/capturing-the-registry-with-a-dotnet/)
-- [January 2026 PowerShell Roundup](https://buttondown.com/behind-the-powershell-pipeline/archive/january-2026-powershell-roundup/)
 
 [//]: # (end links)
 
