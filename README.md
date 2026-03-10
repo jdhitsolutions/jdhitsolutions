@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [Getting Started With PowerShell Regular](https://buttondown.com/behind-the-powershell-pipeline/archive/getting-started-with-powershell-regular/)
 - [PowerShell Tools For Linux](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-tools-for-linux/)
 - [Even More Pwshspectreconsole Tools](https://buttondown.com/behind-the-powershell-pipeline/archive/even-more-pwshspectreconsole-tools/)
 - [February 2026 PowerShell Potluck](https://buttondown.com/behind-the-powershell-pipeline/archive/february-2026-powershell-potluck/)
 - [Resolving The Registry Challenge](https://buttondown.com/behind-the-powershell-pipeline/archive/resolving-the-registry-challenge/)
 - [Proxy Problems](https://buttondown.com/behind-the-powershell-pipeline/archive/proxy-problems/)
-- [Enhancing The Proxy Command](https://buttondown.com/behind-the-powershell-pipeline/archive/enhancing-the-proxy-command/)
 
 [//]: # (end links)
 
