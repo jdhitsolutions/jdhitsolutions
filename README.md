@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [Solving The Uptime History Challenge](https://buttondown.com/behind-the-powershell-pipeline/archive/solving-the-uptime-history-challenge/)
 - [Scripting For Water](https://buttondown.com/behind-the-powershell-pipeline/archive/scripting-for-water/)
 - [Regular Expression Actions](https://buttondown.com/behind-the-powershell-pipeline/archive/regular-expression-actions/)
 - [Regular Expression Features](https://buttondown.com/behind-the-powershell-pipeline/archive/regular-expression-features/)
 - [Getting Started With PowerShell Regular](https://buttondown.com/behind-the-powershell-pipeline/archive/getting-started-with-powershell-regular/)
 - [PowerShell Tools For Linux](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-tools-for-linux/)
-- [Even More Pwshspectreconsole Tools](https://buttondown.com/behind-the-powershell-pipeline/archive/even-more-pwshspectreconsole-tools/)
 
 [//]: # (end links)
 
