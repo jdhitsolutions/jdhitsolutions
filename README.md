@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [More PowerShell Water Tools](https://buttondown.com/behind-the-powershell-pipeline/archive/more-powershell-water-tools/)
 - [Pretty PowerShell Presentation](https://buttondown.com/behind-the-powershell-pipeline/archive/pretty-powershell-presentation/)
 - [March 2026 PowerShell Potluck](https://buttondown.com/behind-the-powershell-pipeline/archive/march-2026-powershell-potluck/)
 - [Solving The Uptime History Challenge](https://buttondown.com/behind-the-powershell-pipeline/archive/solving-the-uptime-history-challenge/)
 - [Scripting For Water](https://buttondown.com/behind-the-powershell-pipeline/archive/scripting-for-water/)
 - [Regular Expression Actions](https://buttondown.com/behind-the-powershell-pipeline/archive/regular-expression-actions/)
-- [Regular Expression Features](https://buttondown.com/behind-the-powershell-pipeline/archive/regular-expression-features/)
 
 [//]: # (end links)
 
