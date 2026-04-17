@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [Directory Diving](https://buttondown.com/behind-the-powershell-pipeline/archive/directory-diving/)
 - [Faster Foreaching](https://buttondown.com/behind-the-powershell-pipeline/archive/faster-foreaching/)
 - [Faster Filtering](https://buttondown.com/behind-the-powershell-pipeline/archive/faster-filtering/)
 - [Show Your Work](https://buttondown.com/behind-the-powershell-pipeline/archive/show-your-work/)
 - [More PowerShell Water Tools](https://buttondown.com/behind-the-powershell-pipeline/archive/more-powershell-water-tools/)
 - [Pretty PowerShell Presentation](https://buttondown.com/behind-the-powershell-pipeline/archive/pretty-powershell-presentation/)
-- [March 2026 PowerShell Potluck](https://buttondown.com/behind-the-powershell-pipeline/archive/march-2026-powershell-potluck/)
 
 [//]: # (end links)
 
