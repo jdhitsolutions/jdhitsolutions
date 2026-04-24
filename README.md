@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [Solving The PowerShell Module Challenge](https://buttondown.com/behind-the-powershell-pipeline/archive/solving-the-powershell-module-challenge/)
 - [Faster Fileinfo](https://buttondown.com/behind-the-powershell-pipeline/archive/faster-fileinfo/)
 - [Directory Diving](https://buttondown.com/behind-the-powershell-pipeline/archive/directory-diving/)
 - [Faster Foreaching](https://buttondown.com/behind-the-powershell-pipeline/archive/faster-foreaching/)
 - [Faster Filtering](https://buttondown.com/behind-the-powershell-pipeline/archive/faster-filtering/)
 - [Show Your Work](https://buttondown.com/behind-the-powershell-pipeline/archive/show-your-work/)
-- [More PowerShell Water Tools](https://buttondown.com/behind-the-powershell-pipeline/archive/more-powershell-water-tools/)
 
 [//]: # (end links)
 
