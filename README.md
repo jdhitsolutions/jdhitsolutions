@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [Revisiting Psreadline Color Options](https://buttondown.com/behind-the-powershell-pipeline/archive/revisiting-psreadline-color-options/)
+- [Profile Scripting For Vscode](https://buttondown.com/behind-the-powershell-pipeline/archive/profile-scripting-for-vscode/)
 - [Profiling Vscode](https://buttondown.com/behind-the-powershell-pipeline/archive/profiling-vscode/)
 - [Integrity Inspection](https://buttondown.com/behind-the-powershell-pipeline/archive/integrity-inspection/)
 - [Protecting Profiles](https://buttondown.com/behind-the-powershell-pipeline/archive/protecting-profiles/)
 - [April 2026 PowerShell Potluck](https://buttondown.com/behind-the-powershell-pipeline/archive/april-2026-powershell-potluck/)
-- [Solving The PowerShell Module Challenge](https://buttondown.com/behind-the-powershell-pipeline/archive/solving-the-powershell-module-challenge/)
-- [Faster Fileinfo](https://buttondown.com/behind-the-powershell-pipeline/archive/faster-fileinfo/)
 
 [//]: # (end links)
 
