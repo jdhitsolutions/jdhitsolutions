@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [May 2026 PowerShell Potluck](https://buttondown.com/behind-the-powershell-pipeline/archive/may-2026-powershell-potluck/)
 - [A Netadapter Statistics Solution](https://buttondown.com/behind-the-powershell-pipeline/archive/a-netadapter-statistics-solution/)
 - [Creating A Registry Usage Tool](https://buttondown.com/behind-the-powershell-pipeline/archive/creating-a-registry-usage-tool/)
 - [Revisiting Psreadline Color Options](https://buttondown.com/behind-the-powershell-pipeline/archive/revisiting-psreadline-color-options/)
 - [Profile Scripting For Vscode](https://buttondown.com/behind-the-powershell-pipeline/archive/profile-scripting-for-vscode/)
 - [Profiling Vscode](https://buttondown.com/behind-the-powershell-pipeline/archive/profiling-vscode/)
-- [Integrity Inspection](https://buttondown.com/behind-the-powershell-pipeline/archive/integrity-inspection/)
 
 [//]: # (end links)
 
