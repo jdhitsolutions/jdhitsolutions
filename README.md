@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [Overlooked Opportunities](https://buttondown.com/behind-the-powershell-pipeline/archive/overlooked-opportunities/)
 - [Validating Style](https://buttondown.com/behind-the-powershell-pipeline/archive/validating-style/)
 - [Creating A Csv Display Tool](https://buttondown.com/behind-the-powershell-pipeline/archive/creating-a-csv-display-tool/)
 - [Name Calling With PowerShell And Regular](https://buttondown.com/behind-the-powershell-pipeline/archive/name-calling-with-powershell-and-regular/)
 - [Regex Capturing With PowerShell](https://buttondown.com/behind-the-powershell-pipeline/archive/regex-capturing-with-powershell/)
 - [A Netadapter Statistics Alternative](https://buttondown.com/behind-the-powershell-pipeline/archive/a-netadapter-statistics-alternative/)
-- [May 2026 PowerShell Potluck](https://buttondown.com/behind-the-powershell-pipeline/archive/may-2026-powershell-potluck/)
 
 [//]: # (end links)
 
