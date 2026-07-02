@@ -55,6 +55,12 @@ In addition to the well-known [*Learn PowerShell in a Month of Lunches*](https:/
 | ![PowerShell Scripting and Toolmaking](images/pstoolmaking-thumbnail.png) | If you have read [*Learn PowerShell Scripting in a Month of Lunches*](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches?a_aid=jdhit&a_bid=2326a8ab), then you are ready for the next step. Don Jones and I wrote this book intending it to be the definitive guide on everything you need to know to be a better PowerShell scripter and toolmaker. |
 | ![pluralsight](images/ps-skills-thumb.jpg) | I have been creating video training courses for over ten years. I have a large course catalog at [Pluralsight](https://www.pluralsight.com/authors/jeff-hicks), with an emphasis on PowerShell-related content. If you are just getting started with PowerShell 7, [I got you covered](https://www.pluralsight.com/courses/installing-running-powershell) there as well. |
 
+## :octocat: My GitHub Stats
+
+[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=jdhitsolutions)](https://github.com/stats-organization/github-stats-extended)
+
+-----
+
 ## ![PS](images/powershell-emoji.png) Recommendations
 
 <img src = "images/PowerShell-transparent-thumb.jpg" alt="ms powershell" style="float: right; padding: 5px 0px 0px 0px;" align="right"> There is a wealth of code on GitHub. These are a few recommendations for PowerShell-related repositories. Many of these people have published modules in the PowerShell Gallery.
@@ -70,9 +76,3 @@ In addition to the well-known [*Learn PowerShell in a Month of Lunches*](https:/
 - [![mdgrs-mei](https://img.shields.io/badge/mdgrs--mei-%40mdgrs--mei-green?style=for-the-badge&logo=github)](https://github.com/mdgrs-mei)
 - [![Timothy Warner](https://img.shields.io/badge/Timothy%20Warner-%40TimothyWarner-green?style=for-the-badge&logo=github)](https://github.com/timothywarner)
 - [![Friedrich "Fred" Weinmann](https://img.shields.io/badge/Friedrich%20Weinmann-%40FriedrichWeinmann-green?style=for-the-badge&logo=github)](https://github.com/FriedrichWeinmann)
-
------
-
-## :octocat: My Stats
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jdhitsolutions)](https://github.com/jdhitsolutions/github-readme-stats)
