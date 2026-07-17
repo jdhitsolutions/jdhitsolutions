@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [Easy Enum Expertise](https://buttondown.com/behind-the-powershell-pipeline/archive/easy-enum-expertise/)
 - [Dont Miss Out](https://buttondown.com/behind-the-powershell-pipeline/archive/dont-miss-out/)
 - [More Missed Opportunities](https://buttondown.com/behind-the-powershell-pipeline/archive/more-missed-opportunities/)
 - [Delivering A PowerShell Mail Solution](https://buttondown.com/behind-the-powershell-pipeline/archive/delivering-a-powershell-mail-solution/)
 - [More PowerShell Mail Solutions](https://buttondown.com/behind-the-powershell-pipeline/archive/more-powershell-mail-solutions/)
 - [PowerShell Potluck June 2026](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-potluck-june-2026/)
-- [Solving The PowerShell Mail Challenge](https://buttondown.com/behind-the-powershell-pipeline/archive/solving-the-powershell-mail-challenge/)
 
 [//]: # (end links)
 
