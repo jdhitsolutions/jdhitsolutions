@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [Creating A Domain Specific Language](https://buttondown.com/behind-the-powershell-pipeline/archive/creating-a-domain-specific-language/)
 - [Enums For Everyone](https://buttondown.com/behind-the-powershell-pipeline/archive/enums-for-everyone/)
 - [Easy Enum Expertise](https://buttondown.com/behind-the-powershell-pipeline/archive/easy-enum-expertise/)
 - [Dont Miss Out](https://buttondown.com/behind-the-powershell-pipeline/archive/dont-miss-out/)
 - [More Missed Opportunities](https://buttondown.com/behind-the-powershell-pipeline/archive/more-missed-opportunities/)
 - [Delivering A PowerShell Mail Solution](https://buttondown.com/behind-the-powershell-pipeline/archive/delivering-a-powershell-mail-solution/)
-- [More PowerShell Mail Solutions](https://buttondown.com/behind-the-powershell-pipeline/archive/more-powershell-mail-solutions/)
 
 [//]: # (end links)
 
