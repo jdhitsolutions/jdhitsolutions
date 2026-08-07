@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [Another Command Metadata Technique](https://buttondown.com/behind-the-powershell-pipeline/archive/another-command-metadata-technique/)
 - [Another Script Tagging Technique](https://buttondown.com/behind-the-powershell-pipeline/archive/another-script-tagging-technique/)
 - [July 2026 PowerShell Potluck](https://buttondown.com/behind-the-powershell-pipeline/archive/july-2026-powershell-potluck/)
 - [A Vhd Backup Solution](https://buttondown.com/behind-the-powershell-pipeline/archive/a-vhd-backup-solution/)
 - [Creating A Domain Specific Language](https://buttondown.com/behind-the-powershell-pipeline/archive/creating-a-domain-specific-language/)
 - [Enums For Everyone](https://buttondown.com/behind-the-powershell-pipeline/archive/enums-for-everyone/)
-- [Easy Enum Expertise](https://buttondown.com/behind-the-powershell-pipeline/archive/easy-enum-expertise/)
 
 [//]: # (end links)
 
