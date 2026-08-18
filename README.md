@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [Module Documentation With](https://buttondown.com/behind-the-powershell-pipeline/archive/module-documentation-with/)
 - [More Platyps Production](https://buttondown.com/behind-the-powershell-pipeline/archive/more-platyps-production/)
 - [Meet The New Platyps](https://buttondown.com/behind-the-powershell-pipeline/archive/meet-the-new-platyps/)
 - [Another Command Metadata Technique](https://buttondown.com/behind-the-powershell-pipeline/archive/another-command-metadata-technique/)
 - [Another Script Tagging Technique](https://buttondown.com/behind-the-powershell-pipeline/archive/another-script-tagging-technique/)
 - [July 2026 PowerShell Potluck](https://buttondown.com/behind-the-powershell-pipeline/archive/july-2026-powershell-potluck/)
-- [A Vhd Backup Solution](https://buttondown.com/behind-the-powershell-pipeline/archive/a-vhd-backup-solution/)
 
 [//]: # (end links)
 
