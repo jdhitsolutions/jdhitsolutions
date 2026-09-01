@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [Improving Get Win32process](https://buttondown.com/behind-the-powershell-pipeline/archive/improving-get-win32process/)
 - [August 2026 PowerShell Round Up](https://buttondown.com/behind-the-powershell-pipeline/archive/august-2026-powershell-round-up/)
 - [Solving The Cim Process Challenge](https://buttondown.com/behind-the-powershell-pipeline/archive/solving-the-cim-process-challenge/)
 - [Platyps Migration Strategies](https://buttondown.com/behind-the-powershell-pipeline/archive/platyps-migration-strategies/)
 - [Module Documentation With](https://buttondown.com/behind-the-powershell-pipeline/archive/module-documentation-with/)
 - [More Platyps Production](https://buttondown.com/behind-the-powershell-pipeline/archive/more-platyps-production/)
-- [Meet The New Platyps](https://buttondown.com/behind-the-powershell-pipeline/archive/meet-the-new-platyps/)
 
 [//]: # (end links)
 
