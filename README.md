@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [More Prompt Power](https://buttondown.com/behind-the-powershell-pipeline/archive/more-prompt-power/)
 - [PowerShell Prompt Potential](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-prompt-potential/)
 - [PowerShell Tool Of The Month](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-tool-of-the-month/)
 - [Formatting The Win32_Process Object](https://buttondown.com/behind-the-powershell-pipeline/archive/formatting-the-win32_process-object/)
 - [Extending The Cimprocess Object](https://buttondown.com/behind-the-powershell-pipeline/archive/extending-the-cimprocess-object/)
 - [Improving Get Win32process](https://buttondown.com/behind-the-powershell-pipeline/archive/improving-get-win32process/)
-- [August 2026 PowerShell Round Up](https://buttondown.com/behind-the-powershell-pipeline/archive/august-2026-powershell-round-up/)
 
 [//]: # (end links)
 
