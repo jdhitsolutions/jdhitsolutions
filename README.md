@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [Extending The Antimalwarehealthscan Challenge](https://buttondown.com/behind-the-powershell-pipeline/archive/extending-the-antimalwarehealthscan-challenge/)
 - [September 2026 PowerShell Potluck](https://buttondown.com/behind-the-powershell-pipeline/archive/september-2026-powershell-potluck/)
 - [Solving The Antimalwarehealthscan Status Challenge](https://buttondown.com/behind-the-powershell-pipeline/archive/solving-the-antimalwarehealthscan-status-challenge/)
 - [Valuable Variables](https://buttondown.com/behind-the-powershell-pipeline/archive/valuable-variables/)
 - [More Prompt Power](https://buttondown.com/behind-the-powershell-pipeline/archive/more-prompt-power/)
 - [PowerShell Prompt Potential](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-prompt-potential/)
-- [PowerShell Tool Of The Month](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-tool-of-the-month/)
 
 [//]: # (end links)
 
