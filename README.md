@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [PowerShell Remote Configuration Tricks](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-remote-configuration-tricks/)
 - [Cross Version PowerShell Remoting](https://buttondown.com/behind-the-powershell-pipeline/archive/cross-version-powershell-remoting/)
 - [October 2026 Tool Of The Month](https://buttondown.com/behind-the-powershell-pipeline/archive/october-2026-tool-of-the-month/)
 - [Extending The Antimalwarehealthscan Challenge](https://buttondown.com/behind-the-powershell-pipeline/archive/extending-the-antimalwarehealthscan-challenge/)
 - [September 2026 PowerShell Potluck](https://buttondown.com/behind-the-powershell-pipeline/archive/september-2026-powershell-potluck/)
 - [Solving The Antimalwarehealthscan Status Challenge](https://buttondown.com/behind-the-powershell-pipeline/archive/solving-the-antimalwarehealthscan-status-challenge/)
-- [Valuable Variables](https://buttondown.com/behind-the-powershell-pipeline/archive/valuable-variables/)
 
 [//]: # (end links)
 
