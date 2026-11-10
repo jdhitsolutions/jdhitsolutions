@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [Revisiting Convertto Markdowntable](https://buttondown.com/behind-the-powershell-pipeline/archive/revisiting-convertto-markdowntable/)
 - [Happy Birthday PowerShell](https://buttondown.com/behind-the-powershell-pipeline/archive/happy-birthday-powershell/)
 - [Managing Wsman Remoting Sessions](https://buttondown.com/behind-the-powershell-pipeline/archive/managing-wsman-remoting-sessions/)
 - [October 2026 PowerShell Roundup](https://buttondown.com/behind-the-powershell-pipeline/archive/october-2026-powershell-roundup/)
 - [Solving The PowerShell Markdown Table Challenge](https://buttondown.com/behind-the-powershell-pipeline/archive/solving-the-powershell-markdown-table-challenge/)
 - [PowerShell Remote Management Tools](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-remote-management-tools/)
-- [Logging PowerShell Remoting Activity](https://buttondown.com/behind-the-powershell-pipeline/archive/logging-powershell-remoting-activity/)
 
 [//]: # (end links)
 
