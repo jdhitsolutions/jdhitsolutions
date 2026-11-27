@@ -6,12 +6,12 @@ Here are the latest issues from the [PowerShell newsletter](https://jdhitsolutio
 
 [//]: # (start links)
 
+- [November 2026 PowerShell Potluck](https://buttondown.com/behind-the-powershell-pipeline/archive/november-2026-powershell-potluck/)
 - [Solving The PowerShell File Class Challenge](https://buttondown.com/behind-the-powershell-pipeline/archive/solving-the-powershell-file-class-challenge/)
 - [PowerShell Pipeline Processing](https://buttondown.com/behind-the-powershell-pipeline/archive/powershell-pipeline-processing/)
 - [Trimming Files With PowerShell](https://buttondown.com/behind-the-powershell-pipeline/archive/trimming-files-with-powershell/)
 - [November PowerShell Tool Of The Month](https://buttondown.com/behind-the-powershell-pipeline/archive/november-powershell-tool-of-the-month/)
 - [Revisiting Convertto Markdowntable](https://buttondown.com/behind-the-powershell-pipeline/archive/revisiting-convertto-markdowntable/)
-- [Happy Birthday PowerShell](https://buttondown.com/behind-the-powershell-pipeline/archive/happy-birthday-powershell/)
 
 [//]: # (end links)
 
